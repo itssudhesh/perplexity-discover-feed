@@ -272,6 +272,37 @@ if __name__ == "__main__":
         # Mask webdriver flag
         context.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
 
+        # Inject session cookies from GitHub Secret
+        import json as _json
+        import os as _os
+        raw_cookies = _os.environ.get("PPLX_COOKIES", "")
+        if raw_cookies:
+            cookie_jar = _json.loads(raw_cookies)
+            # Map sameSite values to Playwright-accepted format
+            samesite_map = {"no_restriction": "None", "lax": "Lax", "strict": "Strict", "unspecified": "None"}
+            # Skip short-lived Cloudflare cookies
+            skip = {"__cf_bm", "__cflb"}
+            pw_cookies = []
+            for c in cookie_jar:
+                if c["name"] in skip:
+                    continue
+                pw_cookie = {
+                    "name": c["name"],
+                    "value": c["value"],
+                    "domain": c["domain"],
+                    "path": c.get("path", "/"),
+                    "secure": c.get("secure", True),
+                    "httpOnly": c.get("httpOnly", False),
+                    "sameSite": samesite_map.get(c.get("sameSite", "lax"), "Lax"),
+                }
+                if c.get("expirationDate"):
+                    pw_cookie["expires"] = int(c["expirationDate"])
+                pw_cookies.append(pw_cookie)
+            context.add_cookies(pw_cookies)
+            print(f"Injected {len(pw_cookies)} cookies")
+        else:
+            print("Warning: PPLX_COOKIES not set — running without session")
+
         listing_page = context.new_page()
         cards = get_cards(listing_page)
         # Debug: save screenshot to see what rendered
