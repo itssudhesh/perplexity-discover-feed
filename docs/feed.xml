@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Perplexity Discover</title>
 <link>https://www.perplexity.ai/discover</link>
 <description>Perplexity Discover — auto-scraped feed</description>
-<lastBuildDate>Sat, 07 Mar 2026 22:30:59 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 22:37:30 +0000</lastBuildDate>
 </channel>
 </rss>
