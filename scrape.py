@@ -24,8 +24,8 @@ def wrap_cdata(html):
 def get_cards(page):
     """Extract article cards from the Discover landing page."""
     print(f"Loading {DISCOVER_URL}")
-    page.goto(DISCOVER_URL, wait_until="networkidle", timeout=60000)
-    time.sleep(3)
+    page.goto(DISCOVER_URL, wait_until="domcontentloaded", timeout=60000)
+    time.sleep(5)
 
     # Scroll to trigger lazy-loaded cards
     for _ in range(5):
@@ -88,8 +88,8 @@ def get_article_details(page, card):
     """Visit article page and extract full body + source links."""
     url = card["url"]
     try:
-        page.goto(url, wait_until="networkidle", timeout=30000)
-        time.sleep(2)
+        page.goto(url, wait_until="domcontentloaded", timeout=30000)
+        time.sleep(3)
 
         # --- Title ---
         title_el = page.query_selector("h2 span.rounded-md")
