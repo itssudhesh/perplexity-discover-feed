@@ -25,18 +25,29 @@ def get_cards(page):
     """Extract article cards from the Discover landing page."""
     print(f"Loading {DISCOVER_URL}")
     page.goto(DISCOVER_URL, wait_until="domcontentloaded", timeout=60000)
-    time.sleep(5)
+    time.sleep(4)
+
+    # Dismiss login modal if present
+    try:
+        page.keyboard.press("Escape")
+        time.sleep(1)
+    except Exception:
+        pass
+
+    # Wait for card links to appear
+    try:
+        page.wait_for_selector("a[href*='/discover/you/']", timeout=20000)
+        print("Cards detected in DOM")
+    except Exception:
+        print("Warning: timed out waiting for cards — continuing anyway")
 
     # Scroll to trigger lazy-loaded cards
     for _ in range(5):
         page.evaluate("window.scrollBy(0, window.innerHeight)")
-        time.sleep(0.8)
+        time.sleep(1)
 
-    # Wait until at least one discover card link is present
-    try:
-        page.wait_for_selector("a[href*='/discover/']", timeout=20000)
-    except Exception:
-        print("Warning: timed out waiting for cards — continuing anyway")
+    page.evaluate("window.scrollTo(0, 0)")
+    time.sleep(1)
 
     cards = page.query_selector_all("a[href*='/discover/you/']")
     print(f"Found {len(cards)} cards")
