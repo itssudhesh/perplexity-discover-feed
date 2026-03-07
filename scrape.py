@@ -34,20 +34,22 @@ def get_cards(page):
     except Exception:
         pass
 
-    # Wait for card links to appear
+    # Wait for actual card content — not just skeleton
     try:
-        page.wait_for_selector("a[href*='/discover/you/']", timeout=20000)
-        print("Cards detected in DOM")
+        page.wait_for_selector("div[data-testid='thread-title']", timeout=30000)
+        print("Card titles detected in DOM")
     except Exception:
-        print("Warning: timed out waiting for cards — continuing anyway")
+        print("Warning: timed out waiting for card titles — continuing anyway")
+
+    time.sleep(3)
 
     # Scroll to trigger lazy-loaded cards
-    for _ in range(5):
+    for _ in range(6):
         page.evaluate("window.scrollBy(0, window.innerHeight)")
-        time.sleep(1)
+        time.sleep(1.5)
 
     page.evaluate("window.scrollTo(0, 0)")
-    time.sleep(1)
+    time.sleep(2)
 
     cards = page.query_selector_all("a[href*='/discover/you/']")
     print(f"Found {len(cards)} cards")
