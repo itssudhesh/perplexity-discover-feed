@@ -32,7 +32,13 @@ def get_cards(page):
         page.evaluate("window.scrollBy(0, window.innerHeight)")
         time.sleep(0.8)
 
-    cards = page.query_selector_all("a.group\\/card")
+    # Wait until at least one discover card link is present
+    try:
+        page.wait_for_selector("a[href*='/discover/']", timeout=20000)
+    except Exception:
+        print("Warning: timed out waiting for cards — continuing anyway")
+
+    cards = page.query_selector_all("a[href*='/discover/you/']")
     print(f"Found {len(cards)} cards")
 
     results = []
