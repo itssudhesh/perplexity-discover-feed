@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "url": "https://www.perplexity.ai/rest/computer/upsell/?path=%2Fdiscover&version=2.18&source=default",
+    "body": {
+      "upsell_information": null,
+      "product_banner_information": null,
+      "input_upsell_information": null
+    }
+  },
+  {
+    "url": "https://www.perplexity.ai/rest/thread/list_pinned_ask_threads?version=2.18&source=default",
+    "body": []
+  }
+]
