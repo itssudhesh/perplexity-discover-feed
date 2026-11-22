@@ -1675,275 +1675,15 @@
       {
         "symbol": "BTCUSD",
         "name": "Bitcoin",
-        "change": 1100.28,
-        "price": 60156.77,
-        "changesPercentage": 1.8631,
-        "marketCap": 1210019379818.0,
+        "change": 2709.3,
+        "price": 59192.9,
+        "changesPercentage": 4.7966,
+        "marketCap": 1190631680318.0,
         "currency": "USD",
         "exchange": "CRYPTO",
         "image": "https://finance-logo.perplexity.ai/crypto/BTCUSD?format=png&fallback=404&size=50",
         "imageDark": "https://finance-logo.perplexity.ai/crypto/BTCUSD?format=png&fallback=404&size=50&theme=dark",
         "history": [
-          {
-            "date": "2026-11-20T17:30:00-05:00",
-            "close": 58994.54
-          },
-          {
-            "date": "2026-11-20T17:35:00-05:00",
-            "close": 59108.23
-          },
-          {
-            "date": "2026-11-20T17:40:00-05:00",
-            "close": 59159.56
-          },
-          {
-            "date": "2026-11-20T17:45:00-05:00",
-            "close": 58936.68
-          },
-          {
-            "date": "2026-11-20T17:50:00-05:00",
-            "close": 59075.24
-          },
-          {
-            "date": "2026-11-20T17:55:00-05:00",
-            "close": 59101.4
-          },
-          {
-            "date": "2026-11-20T18:00:00-05:00",
-            "close": 59192.01
-          },
-          {
-            "date": "2026-11-20T18:05:00-05:00",
-            "close": 59078.95
-          },
-          {
-            "date": "2026-11-20T18:10:00-05:00",
-            "close": 59081.32
-          },
-          {
-            "date": "2026-11-20T18:15:00-05:00",
-            "close": 59004.17
-          },
-          {
-            "date": "2026-11-20T18:20:00-05:00",
-            "close": 58997.7
-          },
-          {
-            "date": "2026-11-20T18:25:00-05:00",
-            "close": 58919.87
-          },
-          {
-            "date": "2026-11-20T18:30:00-05:00",
-            "close": 58918.28
-          },
-          {
-            "date": "2026-11-20T18:35:00-05:00",
-            "close": 58968.25
-          },
-          {
-            "date": "2026-11-20T18:40:00-05:00",
-            "close": 58926.95
-          },
-          {
-            "date": "2026-11-20T18:45:00-05:00",
-            "close": 58901.01
-          },
-          {
-            "date": "2026-11-20T18:50:00-05:00",
-            "close": 58825.73
-          },
-          {
-            "date": "2026-11-20T18:55:00-05:00",
-            "close": 58882.6
-          },
-          {
-            "date": "2026-11-20T19:00:00-05:00",
-            "close": 58787.6
-          },
-          {
-            "date": "2026-11-20T19:05:00-05:00",
-            "close": 58864.49
-          },
-          {
-            "date": "2026-11-20T19:10:00-05:00",
-            "close": 58867.45
-          },
-          {
-            "date": "2026-11-20T19:15:00-05:00",
-            "close": 58866.43
-          },
-          {
-            "date": "2026-11-20T19:20:00-05:00",
-            "close": 58886.69
-          },
-          {
-            "date": "2026-11-20T19:25:00-05:00",
-            "close": 58925.29
-          },
-          {
-            "date": "2026-11-20T19:30:00-05:00",
-            "close": 58931.29
-          },
-          {
-            "date": "2026-11-20T19:35:00-05:00",
-            "close": 58930.99
-          },
-          {
-            "date": "2026-11-20T19:40:00-05:00",
-            "close": 58944.87
-          },
-          {
-            "date": "2026-11-20T19:45:00-05:00",
-            "close": 58994.85
-          },
-          {
-            "date": "2026-11-20T19:50:00-05:00",
-            "close": 59005.02
-          },
-          {
-            "date": "2026-11-20T19:55:00-05:00",
-            "close": 58899.45
-          },
-          {
-            "date": "2026-11-20T20:00:00-05:00",
-            "close": 58870.16
-          },
-          {
-            "date": "2026-11-20T20:05:00-05:00",
-            "close": 58956.38
-          },
-          {
-            "date": "2026-11-20T20:10:00-05:00",
-            "close": 59043.84
-          },
-          {
-            "date": "2026-11-20T20:15:00-05:00",
-            "close": 59051.02
-          },
-          {
-            "date": "2026-11-20T20:20:00-05:00",
-            "close": 58989.85
-          },
-          {
-            "date": "2026-11-20T20:25:00-05:00",
-            "close": 58854.53
-          },
-          {
-            "date": "2026-11-20T20:30:00-05:00",
-            "close": 58803.74
-          },
-          {
-            "date": "2026-11-20T20:35:00-05:00",
-            "close": 58849.12
-          },
-          {
-            "date": "2026-11-20T20:40:00-05:00",
-            "close": 58857.6
-          },
-          {
-            "date": "2026-11-20T20:45:00-05:00",
-            "close": 58905.9
-          },
-          {
-            "date": "2026-11-20T20:50:00-05:00",
-            "close": 58860.27
-          },
-          {
-            "date": "2026-11-20T20:55:00-05:00",
-            "close": 58894.87
-          },
-          {
-            "date": "2026-11-20T21:00:00-05:00",
-            "close": 58913.29
-          },
-          {
-            "date": "2026-11-20T21:05:00-05:00",
-            "close": 58892.91
-          },
-          {
-            "date": "2026-11-20T21:10:00-05:00",
-            "close": 58889.13
-          },
-          {
-            "date": "2026-11-20T21:15:00-05:00",
-            "close": 58836.81
-          },
-          {
-            "date": "2026-11-20T21:20:00-05:00",
-            "close": 58814.41
-          },
-          {
-            "date": "2026-11-20T21:25:00-05:00",
-            "close": 58775.65
-          },
-          {
-            "date": "2026-11-20T21:30:00-05:00",
-            "close": 58579.86
-          },
-          {
-            "date": "2026-11-20T21:35:00-05:00",
-            "close": 58594.85
-          },
-          {
-            "date": "2026-11-20T21:40:00-05:00",
-            "close": 58486.42
-          },
-          {
-            "date": "2026-11-20T21:45:00-05:00",
-            "close": 58521.63
-          },
-          {
-            "date": "2026-11-20T21:50:00-05:00",
-            "close": 58549.87
-          },
-          {
-            "date": "2026-11-20T21:55:00-05:00",
-            "close": 58467.03
-          },
-          {
-            "date": "2026-11-20T22:00:00-05:00",
-            "close": 58261.42
-          },
-          {
-            "date": "2026-11-20T22:05:00-05:00",
-            "close": 58097.73
-          },
-          {
-            "date": "2026-11-20T22:10:00-05:00",
-            "close": 58352.05
-          },
-          {
-            "date": "2026-11-20T22:15:00-05:00",
-            "close": 58216.47
-          },
-          {
-            "date": "2026-11-20T22:20:00-05:00",
-            "close": 58236.93
-          },
-          {
-            "date": "2026-11-20T22:25:00-05:00",
-            "close": 58129.4
-          },
-          {
-            "date": "2026-11-20T22:30:00-05:00",
-            "close": 56920.41
-          },
-          {
-            "date": "2026-11-20T22:35:00-05:00",
-            "close": 56981.94
-          },
-          {
-            "date": "2026-11-20T22:40:00-05:00",
-            "close": 56647.59
-          },
-          {
-            "date": "2026-11-20T22:45:00-05:00",
-            "close": 56900.28
-          },
-          {
-            "date": "2026-11-20T22:50:00-05:00",
-            "close": 56483.6
-          },
           {
             "date": "2026-11-20T22:55:00-05:00",
             "close": 56612.6
@@ -2835,10 +2575,270 @@
           {
             "date": "2026-11-21T17:25:00-05:00",
             "close": 60199.42
+          },
+          {
+            "date": "2026-11-21T17:30:00-05:00",
+            "close": 60102.22
+          },
+          {
+            "date": "2026-11-21T17:35:00-05:00",
+            "close": 60070.83
+          },
+          {
+            "date": "2026-11-21T17:40:00-05:00",
+            "close": 60057.83
+          },
+          {
+            "date": "2026-11-21T17:45:00-05:00",
+            "close": 60024.37
+          },
+          {
+            "date": "2026-11-21T17:50:00-05:00",
+            "close": 60058.64
+          },
+          {
+            "date": "2026-11-21T17:55:00-05:00",
+            "close": 59999.58
+          },
+          {
+            "date": "2026-11-21T18:00:00-05:00",
+            "close": 59958.33
+          },
+          {
+            "date": "2026-11-21T18:05:00-05:00",
+            "close": 60064.25
+          },
+          {
+            "date": "2026-11-21T18:10:00-05:00",
+            "close": 60144.39
+          },
+          {
+            "date": "2026-11-21T18:15:00-05:00",
+            "close": 60147.82
+          },
+          {
+            "date": "2026-11-21T18:20:00-05:00",
+            "close": 60112.65
+          },
+          {
+            "date": "2026-11-21T18:25:00-05:00",
+            "close": 60100.07
+          },
+          {
+            "date": "2026-11-21T18:30:00-05:00",
+            "close": 60146.82
+          },
+          {
+            "date": "2026-11-21T18:35:00-05:00",
+            "close": 60106.73
+          },
+          {
+            "date": "2026-11-21T18:40:00-05:00",
+            "close": 60089.45
+          },
+          {
+            "date": "2026-11-21T18:45:00-05:00",
+            "close": 60115.69
+          },
+          {
+            "date": "2026-11-21T18:50:00-05:00",
+            "close": 60143.59
+          },
+          {
+            "date": "2026-11-21T18:55:00-05:00",
+            "close": 60074.95
+          },
+          {
+            "date": "2026-11-21T19:00:00-05:00",
+            "close": 60093.43
+          },
+          {
+            "date": "2026-11-21T19:05:00-05:00",
+            "close": 60196.01
+          },
+          {
+            "date": "2026-11-21T19:10:00-05:00",
+            "close": 60190.14
+          },
+          {
+            "date": "2026-11-21T19:15:00-05:00",
+            "close": 60213.54
+          },
+          {
+            "date": "2026-11-21T19:20:00-05:00",
+            "close": 60196.51
+          },
+          {
+            "date": "2026-11-21T19:25:00-05:00",
+            "close": 60182.42
+          },
+          {
+            "date": "2026-11-21T19:30:00-05:00",
+            "close": 60158.74
+          },
+          {
+            "date": "2026-11-21T19:35:00-05:00",
+            "close": 60178.13
+          },
+          {
+            "date": "2026-11-21T19:40:00-05:00",
+            "close": 60170.42
+          },
+          {
+            "date": "2026-11-21T19:45:00-05:00",
+            "close": 60135.73
+          },
+          {
+            "date": "2026-11-21T19:50:00-05:00",
+            "close": 60070.82
+          },
+          {
+            "date": "2026-11-21T19:55:00-05:00",
+            "close": 60093.18
+          },
+          {
+            "date": "2026-11-21T20:00:00-05:00",
+            "close": 60062.52
+          },
+          {
+            "date": "2026-11-21T20:05:00-05:00",
+            "close": 60079.82
+          },
+          {
+            "date": "2026-11-21T20:10:00-05:00",
+            "close": 60082.59
+          },
+          {
+            "date": "2026-11-21T20:15:00-05:00",
+            "close": 60119.82
+          },
+          {
+            "date": "2026-11-21T20:20:00-05:00",
+            "close": 60077.67
+          },
+          {
+            "date": "2026-11-21T20:25:00-05:00",
+            "close": 60004.0
+          },
+          {
+            "date": "2026-11-21T20:30:00-05:00",
+            "close": 59953.16
+          },
+          {
+            "date": "2026-11-21T20:35:00-05:00",
+            "close": 59901.49
+          },
+          {
+            "date": "2026-11-21T20:40:00-05:00",
+            "close": 59975.02
+          },
+          {
+            "date": "2026-11-21T20:45:00-05:00",
+            "close": 60086.27
+          },
+          {
+            "date": "2026-11-21T20:50:00-05:00",
+            "close": 60030.29
+          },
+          {
+            "date": "2026-11-21T20:55:00-05:00",
+            "close": 59989.56
+          },
+          {
+            "date": "2026-11-21T21:00:00-05:00",
+            "close": 60024.74
+          },
+          {
+            "date": "2026-11-21T21:05:00-05:00",
+            "close": 59991.86
+          },
+          {
+            "date": "2026-11-21T21:10:00-05:00",
+            "close": 59920.49
+          },
+          {
+            "date": "2026-11-21T21:15:00-05:00",
+            "close": 59741.83
+          },
+          {
+            "date": "2026-11-21T21:20:00-05:00",
+            "close": 59742.99
+          },
+          {
+            "date": "2026-11-21T21:25:00-05:00",
+            "close": 59728.4
+          },
+          {
+            "date": "2026-11-21T21:30:00-05:00",
+            "close": 59489.67
+          },
+          {
+            "date": "2026-11-21T21:35:00-05:00",
+            "close": 59472.71
+          },
+          {
+            "date": "2026-11-21T21:40:00-05:00",
+            "close": 59535.15
+          },
+          {
+            "date": "2026-11-21T21:45:00-05:00",
+            "close": 59413.13
+          },
+          {
+            "date": "2026-11-21T21:50:00-05:00",
+            "close": 59414.35
+          },
+          {
+            "date": "2026-11-21T21:55:00-05:00",
+            "close": 59378.25
+          },
+          {
+            "date": "2026-11-21T22:00:00-05:00",
+            "close": 59226.46
+          },
+          {
+            "date": "2026-11-21T22:05:00-05:00",
+            "close": 59237.67
+          },
+          {
+            "date": "2026-11-21T22:10:00-05:00",
+            "close": 59194.65
+          },
+          {
+            "date": "2026-11-21T22:15:00-05:00",
+            "close": 59197.76
+          },
+          {
+            "date": "2026-11-21T22:20:00-05:00",
+            "close": 59370.15
+          },
+          {
+            "date": "2026-11-21T22:25:00-05:00",
+            "close": 59255.94
+          },
+          {
+            "date": "2026-11-21T22:30:00-05:00",
+            "close": 59145.65231
+          },
+          {
+            "date": "2026-11-21T22:35:00-05:00",
+            "close": 59100.96
+          },
+          {
+            "date": "2026-11-21T22:40:00-05:00",
+            "close": 59114.46578
+          },
+          {
+            "date": "2026-11-21T22:45:00-05:00",
+            "close": 59015.57
+          },
+          {
+            "date": "2026-11-21T22:50:00-05:00",
+            "close": 59093.41
           }
         ],
         "historyPeriodLabel": null,
-        "historicalPreviousClose": 59056.49,
+        "historicalPreviousClose": 56483.6,
         "exchangeHours": null,
         "exchangeHoursAnnotations": [],
         "exchangeTimezone": "America/New_York"
@@ -6863,19 +6863,54 @@
           "title_line_limit": 2,
           "summary_line_limit": null,
           "web_results_preview": {
-            "total_count": 35,
+            "total_count": 13,
             "first_urls": [
-              "https://www.dw.com",
-              "https://www.afp.com",
-              "https://amp.dw.com"
+              "https://www.reuters.com",
+              "https://www.the-independent.com",
+              "https://www.newsobserver.com"
             ]
           },
           "bullet_summary_web_results_preload": [
             {
-              "name": "Climate talks in overtime as nations wrestle with response to worsening global warming - Newsday",
-              "snippet": "By The Associated Press Updated November 21, 2026 7:23 am",
+              "name": "EXCLUSIVE: Denmark pushes EU to tighten curbs on Russians after foiled plot, message to member states shows",
+              "snippet": "",
               "timestamp": "",
-              "url": "https://www.newsday.com/app/business/cop31-un-turkey-climate-change-global-warming-k10167",
+              "url": "https://www.reuters.com/world/europe/denmark-pushes-eu-tighten-curbs-russians-after-foiled-plot-message-member-states-2026-11-21/",
+              "meta_data": {
+                "published_date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 2,
+                "name": "trusted",
+                "description": "is trusted for edited international news reporting, fact checks and business coverage",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Denmark calls for restrictions for Russians after alleged rapper assassination plot",
+              "snippet": "Police thwarted the attempt when they arrested three men with links to the Danish criminal underworld shortly before the rapper Kyivstoner was due to give a concert north of Copenhagen on September 25, police and security officials said.",
+              "timestamp": "",
+              "url": "https://www.the-independent.com/news/world/europe/denmark-russia-kyivstoner-travel-europe-b3089166.html",
               "meta_data": {
                 "date": "2026-11-21"
               },
@@ -6899,7 +6934,7 @@
               "trust": {
                 "level": 1,
                 "name": "trusted",
-                "description": "is trusted for edited Long Island and New York regional news reporting",
+                "description": "is trusted for professionally edited UK and international news reporting and analysis",
                 "type_of_trust": null
               },
               "summary": null,
@@ -6907,45 +6942,10 @@
               "original_snippet": null
             },
             {
-              "name": "COP31 deal elusive as fossil fuel fight deepens",
-              "snippet": "Published on November 20, 2026 at 20:42",
+              "name": "Exclusive-Denmark pushes EU to tighten curbs on Russians after foiled ...",
+              "snippet": "It suggested halting tourist visas for Russian citizens and ceasing recognition of Russian non-biometric passports throughout the zone.",
               "timestamp": "",
-              "url": "https://www.afp.com/en/nations-row-over-fossil-fuels-cop31-goes-overtime",
-              "meta_data": {
-                "date": "2026-11-20"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 2,
-                "name": "trusted",
-                "description": "is trusted for professionally edited international news and fact-checking",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "COP31 climate summit risks failure as talks go deep into overtime",
-              "snippet": "But by Saturday afternoon, with no new text on the table, hopes for significant changes had faded and frustration was mounting.",
-              "timestamp": "",
-              "url": "https://www.newsobserver.com/news/nation-world/world/article318190373.html",
+              "url": "https://www.newsobserver.com/news/nation-world/world/article318187867.html",
               "meta_data": {
                 "date": "2026-11-21"
               },
@@ -6977,47 +6977,12 @@
               "original_snippet": null
             },
             {
-              "name": "UN climate talks slammed by activists and leaders as fossil fuels go unmentioned in draft deal",
-              "snippet": "",
+              "name": "Denmark expels Russian defense attache, halts non-essential visas for ...",
+              "snippet": "Denmark has ordered the Russian defense attache to leave the country within seven days and will stop issuing non-essential visas to Russian ...",
               "timestamp": "",
-              "url": "https://apnews.com/article/climate-change-warming-turkey-a683c5c87a7ee64caf4e9257948b6e40",
+              "url": "https://www.anews.com.tr/world/2026/11/20/denmark-expels-russian-defense-attache-halts-non-essential-visas-for-russians",
               "meta_data": {
-                "published_date": "2026-11-20"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 2,
-                "name": "trusted",
-                "description": "is trusted for edited global news reporting, fact checks, and wire-service journalism",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "EU and island states step up pressure at UN climate conference",
-              "snippet": "",
-              "timestamp": "",
-              "url": "https://www.yahoo.com/news/science/articles/eu-island-states-step-pressure-181830422.html",
-              "meta_data": {
-                "published_date": "2026-11-21"
+                "date": "2026-11-20"
               },
               "file_metadata": null,
               "is_attachment": false,
@@ -7042,10 +7007,10 @@
               "original_snippet": null
             },
             {
-              "name": "COP31: Hoekstra (EU) says no compromise has yet been reached on the final document",
-              "snippet": "According to international media reports, the meeting scheduled for this afternoon to discuss the third draft of the final document has been postponed due to the still significant divisions between the various countries.",
+              "name": "EU chief condemns alleged Russian plot to kill US-Ukrainian citizen",
+              "snippet": "The message seen by Reuters, \u200band sent on Friday \u200cevening to senior European diplomats, said the bloc should impose further restrictions \u200con Russian nationals' access to the \u200bSchengen zone, including a halt to tourist visas for Russian citizens and \u200ba Schengen-wide policy of non-recognition \u200bof Russian non-biometric passports, \u200baccording to the message.",
               "timestamp": "",
-              "url": "https://en.ilsole24ore.com/art/cop31-hoekstra-eu-no-compromise-on-final-document-yet-AJ4WFbOC",
+              "url": "https://uk.news.yahoo.com/unacceptable-eu-chief-condemns-alleged-103236057.html",
               "meta_data": {
                 "date": "2026-11-21"
               },
@@ -7069,77 +7034,7 @@
               "trust": {
                 "level": 1,
                 "name": "trusted",
-                "description": "is trusted for professionally edited Italian business, financial, and public-affairs news",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "COP31 Bulletin Day 12: \u201cGood deal or no deal,\u201d warns EU climate chief",
-              "snippet": "But there were rumours an updated version had been shown to some governments with others left out.",
-              "timestamp": "",
-              "url": "https://www.climatechangenews.com/2026/11/21/cop31-bulletin-day-12-dont-ignore-us-panama-warns-as-cop31-runs-into-overtime/",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 1,
-                "name": "trusted",
-                "description": "is trusted for specialist international climate and environmental journalism",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Climate talks in overtime as nations wrestle with response to worsening global warming",
-              "snippet": "Updated: November 21, 2026 at 4:33 AM",
-              "timestamp": "",
-              "url": "https://www.wsls.com/news/world/2026/11/21/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 1,
-                "name": "trusted",
-                "description": "is trusted for professionally produced local news and weather coverage in Southwest and Central Virginia",
+                "description": "is trusted for professionally edited UK news and clearly attributed publisher reporting",
                 "type_of_trust": null
               },
               "summary": null,
@@ -7149,26 +7044,26 @@
           ],
           "item_type": "pplx_page",
           "mode": "article",
-          "context_uuid": "bff8ca25-bf38-40ef-bbd5-2b14013b3577",
-          "uuid": "dd016ca0-3e25-4a4c-ae36-203c9ca8a7c6",
-          "slug": "cop31-stalls-as-promised-third-3QFsoD4lSkyuNiA8nKinxg",
+          "context_uuid": "7f52cf03-d75d-4631-999a-9f2655331d2c",
+          "uuid": "1f636555-3a2f-4543-81e1-ba74ab2561f2",
+          "slug": "denmark-urges-eu-to-halt-touri-H2NlVTovRUOB4bp0qyVh8g",
           "url": null,
-          "title": "COP31 stalls as promised third draft fails to appear",
-          "short_title": "COP31 third draft stalls",
-          "summary": "Talks in Antalya ran past Friday's deadline with a draft that omits fossil fuels, as the EU warned of \"good deal or no deal.\"",
-          "first_answer": "{\"answer\":\"On Friday night, Kurum promised a third draft by Saturday morning, saying, \\\"We are close to the finish line but not there yet.\\\" As of Saturday afternoon local time, though, no new text had been published, Climate Home News reported. A meeting set to discuss the third draft was postponed because divisions remained deep, Il Sole 24 Ore reported.\\n\\n\\\"We are still stuck with many, many disagreements...\"}",
-          "description": "On Friday night, Kurum promised a third draft by Saturday morning, saying, \"We are close to the finish line but not there yet.\" As of Saturday afternoon local time, though, no new text had been published, Climate Home News reported. A meeting set to discuss the third draft was postponed because divisions remained deep, Il Sole 24 Ore reported.\n\n\"We are still stuck with many, many disagreements...",
-          "bullet_summary_preload": "- COP31 President **Murat Kurum** promised a third draft by Saturday morning, but none appeared by afternoon, and a meeting to discuss it was postponed[7][6].\n- A Thursday draft dropped all fossil fuel references and a $120 billion adaptation target after objections from **Saudi Arabia** and other producers[2][3].\n- The **EU**, small island states and poor nations demanded the 1.5C limit and Dubai fossil fuel pledge be upheld, while **Panama** threatened to object[5][4].",
+          "title": "Denmark urges EU to halt tourist visas for Russians",
+          "short_title": "Denmark seeks visa curbs",
+          "summary": "Copenhagen will present its proposals to EU ambassadors Monday after Danish intelligence blamed Russia for a foiled plot to kill rapper Kyivstoner.",
+          "first_answer": "{\"answer\":\"European Commission President Ursula von der Leyen condemned the alleged plot. \\\"This was an attack on EU soil. And it is unacceptable. We stand in full solidarity with Denmark,\\\" she said on X, Reuters reported. She said the EU will soon propose a \\\"new European Security Strategy\\\" to strengthen preparedness and deterrence.\\n\\nThe Commission also plans to present its 22nd sanctions package against...\"}",
+          "description": "European Commission President Ursula von der Leyen condemned the alleged plot. \"This was an attack on EU soil. And it is unacceptable. We stand in full solidarity with Denmark,\" she said on X, Reuters reported. She said the EU will soon propose a \"new European Security Strategy\" to strengthen preparedness and deterrence.\n\nThe Commission also plans to present its 22nd sanctions package against...",
+          "bullet_summary_preload": "- **Denmark** sent EU partners a message Friday calling for an end to Russian tourist visas and for the whole Schengen zone to stop recognizing Russian non-biometric passports, Reuters reported[1].\n- **PET** chief Rasmus Kieffer-Kristensen said Russian intelligence planned the foiled Sept. 25 plot to kill US-Ukrainian rapper **Kyivstoner** near Copenhagen[2].\n- Denmark is expelling Russia's defense attache and halting non-essential visas, and Commission President **von der Leyen** called the plot an \"attack on EU soil\"[4][5].",
           "bullet_summary_inline_token_annotations": null,
           "featured_images": [
             {
               "medium": "image",
-              "url": "https://www.aljazeera.com/news/2026/11/21/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime",
+              "url": "https://www.yahoo.com/news/world/articles/denmark-calls-eu-wide-travel-155747760.html",
               "source": "getty",
-              "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1795216913/getty_uploads/2305519943_pnlp7n.jpg",
+              "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1795292820/getty_uploads/525513604_ktkadr.jpg",
               "image_id": null,
-              "name": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
-              "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1795216913/getty_uploads/2305519943_pnlp7n.jpg",
+              "name": "Denmark calls for EU-wide travel restrictions on Russians following foiled assassination plot",
+              "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1795292820/getty_uploads/525513604_ktkadr.jpg",
               "thumbnail_384": null,
               "thumbnail_512": null,
               "thumbnail_512_smart": null,
@@ -7194,13 +7089,13 @@
           ],
           "hero_offset": -1.0,
           "metadata_type": "timestamp",
-          "updated_datetime": "2026-11-21T20:33:03.474139",
-          "author_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/e73d25f2-a354-414c-f143-a8dd5d964700/thumbnail",
-          "author_username": "mialua",
+          "updated_datetime": "2026-11-21T20:30:25.932183",
+          "author_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/89fdf36a-8d50-40f3-da46-58b147d1a800/thumbnail",
+          "author_username": "kevinrequill",
           "interest_attribution": null,
-          "published_timestamp": "2026-11-21T20:33:03.474139",
-          "domain_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/e73d25f2-a354-414c-f143-a8dd5d964700/thumbnail",
-          "domain_name": "mialua",
+          "published_timestamp": "2026-11-21T20:30:25.932183",
+          "domain_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/89fdf36a-8d50-40f3-da46-58b147d1a800/thumbnail",
+          "domain_name": "kevinrequill",
           "audio_url": null,
           "dataviz_url": null,
           "dataviz_signed_url": null,
@@ -7223,7 +7118,7 @@
             "like_count": 0,
             "user_likes": false
           },
-          "last_query_datetime": "2026-11-21T20:33:03.474139",
+          "last_query_datetime": "2026-11-21T20:30:25.932183",
           "thread_number": 11,
           "thread_access": 2,
           "query_count": 1,
@@ -7556,277 +7451,6 @@
           },
           "last_query_datetime": "2026-11-21T21:00:47.628121",
           "thread_number": 12,
-          "thread_access": 2,
-          "query_count": 1,
-          "search_focus": "internet",
-          "sources": [],
-          "read_write_token": null,
-          "total_threads": 99,
-          "layout": "media-text",
-          "banners": []
-        },
-        {
-          "card_variant": "LARGE",
-          "title_line_limit": 2,
-          "summary_line_limit": null,
-          "web_results_preview": {
-            "total_count": 13,
-            "first_urls": [
-              "https://www.reuters.com",
-              "https://www.the-independent.com",
-              "https://www.newsobserver.com"
-            ]
-          },
-          "bullet_summary_web_results_preload": [
-            {
-              "name": "EXCLUSIVE: Denmark pushes EU to tighten curbs on Russians after foiled plot, message to member states shows",
-              "snippet": "",
-              "timestamp": "",
-              "url": "https://www.reuters.com/world/europe/denmark-pushes-eu-tighten-curbs-russians-after-foiled-plot-message-member-states-2026-11-21/",
-              "meta_data": {
-                "published_date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 2,
-                "name": "trusted",
-                "description": "is trusted for edited international news reporting, fact checks and business coverage",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Denmark calls for restrictions for Russians after alleged rapper assassination plot",
-              "snippet": "Police thwarted the attempt when they arrested three men with links to the Danish criminal underworld shortly before the rapper Kyivstoner was due to give a concert north of Copenhagen on September 25, police and security officials said.",
-              "timestamp": "",
-              "url": "https://www.the-independent.com/news/world/europe/denmark-russia-kyivstoner-travel-europe-b3089166.html",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 1,
-                "name": "trusted",
-                "description": "is trusted for professionally edited UK and international news reporting and analysis",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Exclusive-Denmark pushes EU to tighten curbs on Russians after foiled ...",
-              "snippet": "It suggested halting tourist visas for Russian citizens and ceasing recognition of Russian non-biometric passports throughout the zone.",
-              "timestamp": "",
-              "url": "https://www.newsobserver.com/news/nation-world/world/article318187867.html",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 1,
-                "name": "trusted",
-                "description": "is trusted for professionally edited North Carolina news and state-government reporting",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Denmark expels Russian defense attache, halts non-essential visas for ...",
-              "snippet": "Denmark has ordered the Russian defense attache to leave the country within seven days and will stop issuing non-essential visas to Russian ...",
-              "timestamp": "",
-              "url": "https://www.anews.com.tr/world/2026/11/20/denmark-expels-russian-defense-attache-halts-non-essential-visas-for-russians",
-              "meta_data": {
-                "date": "2026-11-20"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": null,
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "EU chief condemns alleged Russian plot to kill US-Ukrainian citizen",
-              "snippet": "The message seen by Reuters, \u200band sent on Friday \u200cevening to senior European diplomats, said the bloc should impose further restrictions \u200con Russian nationals' access to the \u200bSchengen zone, including a halt to tourist visas for Russian citizens and \u200ba Schengen-wide policy of non-recognition \u200bof Russian non-biometric passports, \u200baccording to the message.",
-              "timestamp": "",
-              "url": "https://uk.news.yahoo.com/unacceptable-eu-chief-condemns-alleged-103236057.html",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 1,
-                "name": "trusted",
-                "description": "is trusted for professionally edited UK news and clearly attributed publisher reporting",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            }
-          ],
-          "item_type": "pplx_page",
-          "mode": "article",
-          "context_uuid": "7f52cf03-d75d-4631-999a-9f2655331d2c",
-          "uuid": "1f636555-3a2f-4543-81e1-ba74ab2561f2",
-          "slug": "denmark-urges-eu-to-halt-touri-H2NlVTovRUOB4bp0qyVh8g",
-          "url": null,
-          "title": "Denmark urges EU to halt tourist visas for Russians",
-          "short_title": "Denmark seeks visa curbs",
-          "summary": "Copenhagen will present its proposals to EU ambassadors Monday after Danish intelligence blamed Russia for a foiled plot to kill rapper Kyivstoner.",
-          "first_answer": "{\"answer\":\"European Commission President Ursula von der Leyen condemned the alleged plot. \\\"This was an attack on EU soil. And it is unacceptable. We stand in full solidarity with Denmark,\\\" she said on X, Reuters reported. She said the EU will soon propose a \\\"new European Security Strategy\\\" to strengthen preparedness and deterrence.\\n\\nThe Commission also plans to present its 22nd sanctions package against...\"}",
-          "description": "European Commission President Ursula von der Leyen condemned the alleged plot. \"This was an attack on EU soil. And it is unacceptable. We stand in full solidarity with Denmark,\" she said on X, Reuters reported. She said the EU will soon propose a \"new European Security Strategy\" to strengthen preparedness and deterrence.\n\nThe Commission also plans to present its 22nd sanctions package against...",
-          "bullet_summary_preload": "- **Denmark** sent EU partners a message Friday calling for an end to Russian tourist visas and for the whole Schengen zone to stop recognizing Russian non-biometric passports, Reuters reported[1].\n- **PET** chief Rasmus Kieffer-Kristensen said Russian intelligence planned the foiled Sept. 25 plot to kill US-Ukrainian rapper **Kyivstoner** near Copenhagen[2].\n- Denmark is expelling Russia's defense attache and halting non-essential visas, and Commission President **von der Leyen** called the plot an \"attack on EU soil\"[4][5].",
-          "bullet_summary_inline_token_annotations": null,
-          "featured_images": [
-            {
-              "medium": "image",
-              "url": "https://www.yahoo.com/news/world/articles/denmark-calls-eu-wide-travel-155747760.html",
-              "source": "getty",
-              "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1795292820/getty_uploads/525513604_ktkadr.jpg",
-              "image_id": null,
-              "name": "Denmark calls for EU-wide travel restrictions on Russians following foiled assassination plot",
-              "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1795292820/getty_uploads/525513604_ktkadr.jpg",
-              "thumbnail_384": null,
-              "thumbnail_512": null,
-              "thumbnail_512_smart": null,
-              "caption": null,
-              "modal_url": null,
-              "author_name": null,
-              "author_url": null,
-              "locations": null,
-              "dark_image_url": null,
-              "duration": null,
-              "image_width": null,
-              "image_height": null,
-              "thumbnail_width": null,
-              "thumbnail_height": null,
-              "download_url": null,
-              "sponsored_uuid": null,
-              "ad_content_uuid": null,
-              "metadata": null,
-              "low_res_image": null,
-              "generated_media_metadata": null,
-              "original_image_url": null
-            }
-          ],
-          "hero_offset": -1.0,
-          "metadata_type": "timestamp",
-          "updated_datetime": "2026-11-21T20:30:25.932183",
-          "author_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/89fdf36a-8d50-40f3-da46-58b147d1a800/thumbnail",
-          "author_username": "kevinrequill",
-          "interest_attribution": null,
-          "published_timestamp": "2026-11-21T20:30:25.932183",
-          "domain_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/89fdf36a-8d50-40f3-da46-58b147d1a800/thumbnail",
-          "domain_name": "kevinrequill",
-          "audio_url": null,
-          "dataviz_url": null,
-          "dataviz_signed_url": null,
-          "has_next_page": true,
-          "collection": null,
-          "feedback_state": {
-            "like": false
-          },
-          "supported_feedbacks": {
-            "dislike": true,
-            "report": false
-          },
-          "discover_screener_query_uuid": null,
-          "is_live": null,
-          "article_number": 13,
-          "access": 2,
-          "social_info": {
-            "view_count": 0,
-            "fork_count": 0,
-            "like_count": 0,
-            "user_likes": false
-          },
-          "last_query_datetime": "2026-11-21T20:30:25.932183",
-          "thread_number": 13,
           "thread_access": 2,
           "query_count": 1,
           "search_focus": "internet",
@@ -8188,7 +7812,7 @@
           },
           "discover_screener_query_uuid": null,
           "is_live": null,
-          "article_number": 14,
+          "article_number": 13,
           "access": 2,
           "social_info": {
             "view_count": 0,
@@ -8197,283 +7821,7 @@
             "user_likes": false
           },
           "last_query_datetime": "2026-11-21T17:33:56.832122",
-          "thread_number": 14,
-          "thread_access": 2,
-          "query_count": 1,
-          "search_focus": "internet",
-          "sources": [],
-          "read_write_token": null,
-          "total_threads": 99,
-          "layout": "media-text",
-          "banners": []
-        },
-        {
-          "card_variant": "LARGE",
-          "title_line_limit": 2,
-          "summary_line_limit": null,
-          "web_results_preview": {
-            "total_count": 14,
-            "first_urls": [
-              "https://www.cbsnews.com",
-              "https://tribune.com.pk",
-              "https://fox4kc.com"
-            ]
-          },
-          "bullet_summary_web_results_preload": [
-            {
-              "name": "Tanker hit by unknown projectile near Oman's Khasab, UKMTO says",
-              "snippet": "US President Donald Trump said on Saturday he intended to secure a \u201cpermanent\u201d deal with Iran, insisting that no future American president should be able to allow Tehran to obtain a nuclear weapon.",
-              "timestamp": "",
-              "url": "https://tribune.com.pk/story/2641499/iran-urges-world-to-remember-168-killed-in-us-airstrikes-on-school-in-minab",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 1,
-                "name": "trusted",
-                "description": "is trusted for professionally edited Pakistani news reporting, including politics and business",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Live Updates: Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027",
-              "snippet": "President Trump said Saturday that he wants to make a \"permanent\" deal with Iran that will prevent the country from gaining a nuclear weapon in the future.",
-              "timestamp": "",
-              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/?ftag=CNM-00-10aab7e&linkId=1041626219",
-              "meta_data": {
-                "date": "2026-11-20"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 1,
-                "name": "trusted",
-                "description": "is trusted for professionally produced U.S. and international news reporting",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Trump insists Iran won't make an 'acceptable' deal as concerns grow ...",
-              "snippet": "",
-              "timestamp": "",
-              "url": "https://fox4kc.com/politics/ap-politics/ap-trump-insists-iran-wont-make-an-acceptable-deal-as-concerns-grow-about-next-steps/amp/",
-              "meta_data": {
-                "published_date": "2026-11-20"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 1,
-                "name": "trusted",
-                "description": "is trusted for Kansas City-area local reporting, weather, sports, and public affairs.",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Live Updates: Trump says he wants \"permanent\" deal with Iran",
-              "snippet": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-              "timestamp": "",
-              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 1,
-                "name": "trusted",
-                "description": "is trusted for professionally produced U.S. and international news reporting",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Iran, Trump: \"I will make a permanent agreement, no one will be able to allow Tehran to have nuclear weapons\" | JIJI PRESS",
-              "snippet": "This is what Donald Trump said today in an interview with Fox News about the war in Iran, stating that he intends to ensure that future presidents will also be bound by the agreement with which he will end the war with Iran.",
-              "timestamp": "",
-              "url": "https://jen.jiji.com/iran-trump-i-will-make-a-permanent-agreement-no-one-will-be-able-to-allow-tehran-to-have-nuclear-weapons/",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 2,
-                "name": "trusted",
-                "description": "is trusted for English-language news reporting on Japan and international affairs",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            }
-          ],
-          "item_type": "pplx_page",
-          "mode": "article",
-          "context_uuid": "bcc5174b-cf01-42cd-bdb5-1ee169ac0d74",
-          "uuid": "def0ab1c-6cfd-414e-9ca4-de9f2844b489",
-          "slug": "trump-says-any-deal-to-end-ira-3vCrHGz9QU6cpN6fKES0iQ",
-          "url": null,
-          "title": "Trump says any deal to end Iran war must be 'permanent'",
-          "short_title": "Trump seeks permanent Iran deal",
-          "summary": "Trump said he wants an agreement binding future presidents. He cited Iran's record of broken deals as the war nears nine months.",
-          "first_answer": "{\"answer\":\"Months of indirect talks have not produced a ceasefire that would reopen the Strait of Hormuz. Iran has refused to discuss its nuclear program unless the U.S. lifts its naval blockade and accepts other conditions, CBS News reported. Trump also told Israel's Channel 12 that he is \\\"not rushing\\\" and may wait until after the new year to decide his next move.\\n\\nIran has recently expanded its attacks...\"}",
-          "description": "Months of indirect talks have not produced a ceasefire that would reopen the Strait of Hormuz. Iran has refused to discuss its nuclear program unless the U.S. lifts its naval blockade and accepts other conditions, CBS News reported. Trump also told Israel's Channel 12 that he is \"not rushing\" and may wait until after the new year to decide his next move.\n\nIran has recently expanded its attacks...",
-          "bullet_summary_preload": "- **President Donald Trump** told Fox News on Saturday that he wants a \"permanent\" deal so no future president could let **Iran** get a nuclear weapon[5][2].\n- Months of indirect talks have not produced a ceasefire to reopen the **Strait of Hormuz**, and Iran wants the U.S. naval blockade lifted first[4].\n- Trump said Friday that Tehran won't offer an \"acceptable\" deal and told an Israeli outlet his next move may not come until 2027[3][4].",
-          "bullet_summary_inline_token_annotations": null,
-          "featured_images": [
-            {
-              "medium": "image",
-              "url": "https://www.the-express.com/news/politics/220191/trump-iran-deal-regime-change",
-              "source": "getty",
-              "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1795292333/getty_uploads/2305547479_zlntcd.jpg",
-              "image_id": null,
-              "name": "Trump says he'll make permanent deal with Iran after his ultimate regime change",
-              "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1795292333/getty_uploads/2305547479_zlntcd.jpg",
-              "thumbnail_384": null,
-              "thumbnail_512": null,
-              "thumbnail_512_smart": null,
-              "caption": null,
-              "modal_url": null,
-              "author_name": null,
-              "author_url": null,
-              "locations": null,
-              "dark_image_url": null,
-              "duration": null,
-              "image_width": null,
-              "image_height": null,
-              "thumbnail_width": null,
-              "thumbnail_height": null,
-              "download_url": null,
-              "sponsored_uuid": null,
-              "ad_content_uuid": null,
-              "metadata": null,
-              "low_res_image": null,
-              "generated_media_metadata": null,
-              "original_image_url": null
-            }
-          ],
-          "hero_offset": -1.0,
-          "metadata_type": "timestamp",
-          "updated_datetime": "2026-11-21T20:20:27.090802",
-          "author_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/21c69ee0-9d5d-4770-4cb6-3d25c27c6200/thumbnail",
-          "author_username": "aaronmut",
-          "interest_attribution": null,
-          "published_timestamp": "2026-11-21T20:20:27.090802",
-          "domain_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/21c69ee0-9d5d-4770-4cb6-3d25c27c6200/thumbnail",
-          "domain_name": "aaronmut",
-          "audio_url": null,
-          "dataviz_url": null,
-          "dataviz_signed_url": null,
-          "has_next_page": true,
-          "collection": null,
-          "feedback_state": {
-            "like": false
-          },
-          "supported_feedbacks": {
-            "dislike": true,
-            "report": false
-          },
-          "discover_screener_query_uuid": null,
-          "is_live": null,
-          "article_number": 15,
-          "access": 2,
-          "social_info": {
-            "view_count": 0,
-            "fork_count": 0,
-            "like_count": 0,
-            "user_likes": false
-          },
-          "last_query_datetime": "2026-11-21T20:20:27.090802",
-          "thread_number": 15,
+          "thread_number": 13,
           "thread_access": 2,
           "query_count": 1,
           "search_focus": "internet",
@@ -9020,7 +8368,7 @@
           },
           "discover_screener_query_uuid": null,
           "is_live": null,
-          "article_number": 16,
+          "article_number": 14,
           "access": 2,
           "social_info": {
             "view_count": 0,
@@ -9029,7 +8377,283 @@
             "user_likes": false
           },
           "last_query_datetime": "2026-11-21T17:28:05.399612",
-          "thread_number": 16,
+          "thread_number": 14,
+          "thread_access": 2,
+          "query_count": 1,
+          "search_focus": "internet",
+          "sources": [],
+          "read_write_token": null,
+          "total_threads": 99,
+          "layout": "media-text",
+          "banners": []
+        },
+        {
+          "card_variant": "LARGE",
+          "title_line_limit": 2,
+          "summary_line_limit": null,
+          "web_results_preview": {
+            "total_count": 14,
+            "first_urls": [
+              "https://www.cbsnews.com",
+              "https://tribune.com.pk",
+              "https://fox4kc.com"
+            ]
+          },
+          "bullet_summary_web_results_preload": [
+            {
+              "name": "Tanker hit by unknown projectile near Oman's Khasab, UKMTO says",
+              "snippet": "US President Donald Trump said on Saturday he intended to secure a \u201cpermanent\u201d deal with Iran, insisting that no future American president should be able to allow Tehran to obtain a nuclear weapon.",
+              "timestamp": "",
+              "url": "https://tribune.com.pk/story/2641499/iran-urges-world-to-remember-168-killed-in-us-airstrikes-on-school-in-minab",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 1,
+                "name": "trusted",
+                "description": "is trusted for professionally edited Pakistani news reporting, including politics and business",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Live Updates: Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027",
+              "snippet": "President Trump said Saturday that he wants to make a \"permanent\" deal with Iran that will prevent the country from gaining a nuclear weapon in the future.",
+              "timestamp": "",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/?ftag=CNM-00-10aab7e&linkId=1041626219",
+              "meta_data": {
+                "date": "2026-11-20"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 1,
+                "name": "trusted",
+                "description": "is trusted for professionally produced U.S. and international news reporting",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Trump insists Iran won't make an 'acceptable' deal as concerns grow ...",
+              "snippet": "",
+              "timestamp": "",
+              "url": "https://fox4kc.com/politics/ap-politics/ap-trump-insists-iran-wont-make-an-acceptable-deal-as-concerns-grow-about-next-steps/amp/",
+              "meta_data": {
+                "published_date": "2026-11-20"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 1,
+                "name": "trusted",
+                "description": "is trusted for Kansas City-area local reporting, weather, sports, and public affairs.",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Live Updates: Trump says he wants \"permanent\" deal with Iran",
+              "snippet": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+              "timestamp": "",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 1,
+                "name": "trusted",
+                "description": "is trusted for professionally produced U.S. and international news reporting",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Iran, Trump: \"I will make a permanent agreement, no one will be able to allow Tehran to have nuclear weapons\" | JIJI PRESS",
+              "snippet": "This is what Donald Trump said today in an interview with Fox News about the war in Iran, stating that he intends to ensure that future presidents will also be bound by the agreement with which he will end the war with Iran.",
+              "timestamp": "",
+              "url": "https://jen.jiji.com/iran-trump-i-will-make-a-permanent-agreement-no-one-will-be-able-to-allow-tehran-to-have-nuclear-weapons/",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 2,
+                "name": "trusted",
+                "description": "is trusted for English-language news reporting on Japan and international affairs",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            }
+          ],
+          "item_type": "pplx_page",
+          "mode": "article",
+          "context_uuid": "bcc5174b-cf01-42cd-bdb5-1ee169ac0d74",
+          "uuid": "def0ab1c-6cfd-414e-9ca4-de9f2844b489",
+          "slug": "trump-says-any-deal-to-end-ira-3vCrHGz9QU6cpN6fKES0iQ",
+          "url": null,
+          "title": "Trump says any deal to end Iran war must be 'permanent'",
+          "short_title": "Trump seeks permanent Iran deal",
+          "summary": "Trump said he wants an agreement binding future presidents. He cited Iran's record of broken deals as the war nears nine months.",
+          "first_answer": "{\"answer\":\"Months of indirect talks have not produced a ceasefire that would reopen the Strait of Hormuz. Iran has refused to discuss its nuclear program unless the U.S. lifts its naval blockade and accepts other conditions, CBS News reported. Trump also told Israel's Channel 12 that he is \\\"not rushing\\\" and may wait until after the new year to decide his next move.\\n\\nIran has recently expanded its attacks...\"}",
+          "description": "Months of indirect talks have not produced a ceasefire that would reopen the Strait of Hormuz. Iran has refused to discuss its nuclear program unless the U.S. lifts its naval blockade and accepts other conditions, CBS News reported. Trump also told Israel's Channel 12 that he is \"not rushing\" and may wait until after the new year to decide his next move.\n\nIran has recently expanded its attacks...",
+          "bullet_summary_preload": "- **President Donald Trump** told Fox News on Saturday that he wants a \"permanent\" deal so no future president could let **Iran** get a nuclear weapon[5][2].\n- Months of indirect talks have not produced a ceasefire to reopen the **Strait of Hormuz**, and Iran wants the U.S. naval blockade lifted first[4].\n- Trump said Friday that Tehran won't offer an \"acceptable\" deal and told an Israeli outlet his next move may not come until 2027[3][4].",
+          "bullet_summary_inline_token_annotations": null,
+          "featured_images": [
+            {
+              "medium": "image",
+              "url": "https://www.the-express.com/news/politics/220191/trump-iran-deal-regime-change",
+              "source": "getty",
+              "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1795292333/getty_uploads/2305547479_zlntcd.jpg",
+              "image_id": null,
+              "name": "Trump says he'll make permanent deal with Iran after his ultimate regime change",
+              "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1795292333/getty_uploads/2305547479_zlntcd.jpg",
+              "thumbnail_384": null,
+              "thumbnail_512": null,
+              "thumbnail_512_smart": null,
+              "caption": null,
+              "modal_url": null,
+              "author_name": null,
+              "author_url": null,
+              "locations": null,
+              "dark_image_url": null,
+              "duration": null,
+              "image_width": null,
+              "image_height": null,
+              "thumbnail_width": null,
+              "thumbnail_height": null,
+              "download_url": null,
+              "sponsored_uuid": null,
+              "ad_content_uuid": null,
+              "metadata": null,
+              "low_res_image": null,
+              "generated_media_metadata": null,
+              "original_image_url": null
+            }
+          ],
+          "hero_offset": -1.0,
+          "metadata_type": "timestamp",
+          "updated_datetime": "2026-11-21T20:20:27.090802",
+          "author_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/21c69ee0-9d5d-4770-4cb6-3d25c27c6200/thumbnail",
+          "author_username": "aaronmut",
+          "interest_attribution": null,
+          "published_timestamp": "2026-11-21T20:20:27.090802",
+          "domain_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/21c69ee0-9d5d-4770-4cb6-3d25c27c6200/thumbnail",
+          "domain_name": "aaronmut",
+          "audio_url": null,
+          "dataviz_url": null,
+          "dataviz_signed_url": null,
+          "has_next_page": true,
+          "collection": null,
+          "feedback_state": {
+            "like": false
+          },
+          "supported_feedbacks": {
+            "dislike": true,
+            "report": false
+          },
+          "discover_screener_query_uuid": null,
+          "is_live": null,
+          "article_number": 15,
+          "access": 2,
+          "social_info": {
+            "view_count": 0,
+            "fork_count": 0,
+            "like_count": 0,
+            "user_likes": false
+          },
+          "last_query_datetime": "2026-11-21T20:20:27.090802",
+          "thread_number": 15,
           "thread_access": 2,
           "query_count": 1,
           "search_focus": "internet",
@@ -9246,7 +8870,7 @@
           },
           "discover_screener_query_uuid": null,
           "is_live": null,
-          "article_number": 17,
+          "article_number": 16,
           "access": 2,
           "social_info": {
             "view_count": 0,
@@ -9255,6 +8879,322 @@
             "user_likes": false
           },
           "last_query_datetime": "2026-11-21T17:22:41.181121",
+          "thread_number": 16,
+          "thread_access": 2,
+          "query_count": 1,
+          "search_focus": "internet",
+          "sources": [],
+          "read_write_token": null,
+          "total_threads": 99,
+          "layout": "media-text",
+          "banners": []
+        },
+        {
+          "card_variant": "LARGE",
+          "title_line_limit": 2,
+          "summary_line_limit": null,
+          "web_results_preview": {
+            "total_count": 14,
+            "first_urls": [
+              "https://www.moneycontrol.com",
+              "https://www.iranintl.com",
+              "https://www.ansa.it"
+            ]
+          },
+          "bullet_summary_web_results_preload": [
+            {
+              "name": "Pezeshkian says Iran facing 'silent economic war' tougher than war with ...",
+              "snippet": "",
+              "timestamp": "",
+              "url": "https://www.moneycontrol.com/world/pezeshkian-says-iran-facing-silent-economic-war-tougher-than-war-with-missiles-article-14086172.html/amp",
+              "meta_data": {
+                "published_date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": null,
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Iran engages in \"silent\" economic war: president",
+              "snippet": "",
+              "timestamp": "",
+              "url": "https://www.bignewsnetwork.com/news/279447169/iran-engages-in-silent-economic-war-president",
+              "meta_data": {
+                "published_date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": null,
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Iranian President: Economic warfare is more difficult than a war involving missile strikes",
+              "snippet": "Referring to the economic warfare being waged against Iran, the President said it is a silent war and is more difficult than a war in which missiles are launched and destruction occurs.",
+              "timestamp": "",
+              "url": "https://en.apa.az/asia/iranian-president-economic-warfare-is-more-difficult-than-a-war-involving-missile-strikes-537620",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": null,
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Bessent says Iran's rulers will turn on each other, Pezeshkian warns of ...",
+              "snippet": "Iran already faced energy shortfalls before the war, he said, and attacks on its gas production capacity had made them worse.",
+              "timestamp": "",
+              "url": "https://www.iranintl.com/en/202611219832",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": null,
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Pezeshkian says Iran\u2019s economic war is harder to withstand ...",
+              "snippet": "Iran is fighting a \u201csilent war\u201d on the economic front that is \u201cfar harder than a war in which missiles are fired and cause destruction,\u201d President Masoud Pezeshkian told investors on Saturday.",
+              "timestamp": "",
+              "url": "https://www.iranintl.com/en/202611210024",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": null,
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Pezeshkian, 'siamo impegnati in una guerra economica silenziosa' - Medio Oriente - Ansa.it",
+              "snippet": "gas ed elettricit\u00e0 - rimanga disponibile per tutto l'inverno;",
+              "timestamp": "",
+              "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/21/pezeshkian-siamo-impegnati-in-una-guerra-economica-silenziosa_ba08f792-6b23-47f7-bb99-294c2a18a582.html",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 2,
+                "name": "trusted",
+                "description": "is trusted for edited Italian and international news-agency reporting",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Economy",
+              "snippet": "Iran faces a worsening winter energy crisis after wartime damage to its gas infrastructure cut production capacity, with officials warning of shortages in 11 provinces and limited options to make up the shortfall.",
+              "timestamp": "",
+              "url": "https://www.iranintl.news/en/economy-and-environment",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": null,
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            }
+          ],
+          "item_type": "pplx_page",
+          "mode": "article",
+          "context_uuid": "4c2a7e45-7cf8-4b2d-917e-a111ac76e463",
+          "uuid": "4f68824b-0a25-4f5f-a3d9-89c9af444899",
+          "slug": "iran-s-president-says-economic-T2iCSwolT1.j2YnJr0RImQ",
+          "url": null,
+          "title": "Iran's president says economic war harder than missiles",
+          "short_title": "Pezeshkian warns economic war",
+          "summary": "Masoud Pezeshkian warned damaged gas infrastructure will make winter hard, saying government offices, not factories, would lose power first during shortages.",
+          "first_answer": "{\"answer\":\"The speech came a day after U.S. Treasury Secretary Scott Bessent defended what he calls Operation Economic Outcast. \\\"We are two and a half months into Operation Economic Outcast, and it is the greatest program in the history of the world to isolate a single country. And it is working,\\\" Bessent told Newsmax. The Treasury said no Iranian oil had been loaded onto vessels since the campaign...\"}",
+          "description": "The speech came a day after U.S. Treasury Secretary Scott Bessent defended what he calls Operation Economic Outcast. \"We are two and a half months into Operation Economic Outcast, and it is the greatest program in the history of the world to isolate a single country. And it is working,\" Bessent told Newsmax. The Treasury said no Iranian oil had been loaded onto vessels since the campaign...",
+          "bullet_summary_preload": "- Iranian President **Masoud Pezeshkian** told investors in Tehran on Saturday that Iran's \"silent\" economic war is harder than missile strikes, Iran International reported[5].\n- Wartime attacks on Iran's gas facilities cut production capacity, and officials warn of shortages in 11 provinces this winter[7][4].\n- His remarks came after U.S. Treasury Secretary **Scott Bessent** said economic pressure was working and predicted that Iran's rulers would turn on each other[4].",
+          "bullet_summary_inline_token_annotations": null,
+          "featured_images": [
+            {
+              "medium": "image",
+              "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/21/pezeshkian-siamo-impegnati-in-una-guerra-economica-silenziosa_ba08f792-6b23-47f7-bb99-294c2a18a582.html",
+              "source": "getty",
+              "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1795281150/getty_uploads/2301783558_v5mtmg.jpg",
+              "image_id": null,
+              "name": "Pezeshkian, 'siamo impegnati in una guerra economica silenziosa' - Medio Oriente - Ansa.it",
+              "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1795281150/getty_uploads/2301783558_v5mtmg.jpg",
+              "thumbnail_384": null,
+              "thumbnail_512": null,
+              "thumbnail_512_smart": null,
+              "caption": null,
+              "modal_url": null,
+              "author_name": null,
+              "author_url": null,
+              "locations": null,
+              "dark_image_url": null,
+              "duration": null,
+              "image_width": null,
+              "image_height": null,
+              "thumbnail_width": null,
+              "thumbnail_height": null,
+              "download_url": null,
+              "sponsored_uuid": null,
+              "ad_content_uuid": null,
+              "metadata": null,
+              "low_res_image": null,
+              "generated_media_metadata": null,
+              "original_image_url": null
+            }
+          ],
+          "hero_offset": -1.0,
+          "metadata_type": "timestamp",
+          "updated_datetime": "2026-11-21T17:13:19.173875",
+          "author_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/12c3f678-f2bd-49e3-eca3-a7ce722fa400/thumbnail",
+          "author_username": "mikeharb",
+          "interest_attribution": null,
+          "published_timestamp": "2026-11-21T17:13:19.173875",
+          "domain_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/12c3f678-f2bd-49e3-eca3-a7ce722fa400/thumbnail",
+          "domain_name": "mikeharb",
+          "audio_url": null,
+          "dataviz_url": null,
+          "dataviz_signed_url": null,
+          "has_next_page": true,
+          "collection": null,
+          "feedback_state": {
+            "like": false
+          },
+          "supported_feedbacks": {
+            "dislike": true,
+            "report": false
+          },
+          "discover_screener_query_uuid": null,
+          "is_live": null,
+          "article_number": 17,
+          "access": 2,
+          "social_info": {
+            "view_count": 0,
+            "fork_count": 0,
+            "like_count": 0,
+            "user_likes": false
+          },
+          "last_query_datetime": "2026-11-21T17:13:19.173875",
           "thread_number": 17,
           "thread_access": 2,
           "query_count": 1,
@@ -9873,8 +9813,8 @@
           "banners": []
         }
       ],
-      "feed_uuid": "04232426-75eb-4bc6-a6bf-b235d219edbb",
-      "next_token": "04232426-75eb-4bc6-a6bf-b235d219edbb",
+      "feed_uuid": "6e1448c4-91d7-4998-9fd6-e29b7cc2201f",
+      "next_token": "6e1448c4-91d7-4998-9fd6-e29b7cc2201f",
       "cache_window_in_seconds": 900,
       "banner_text": "Iran vows blockade break, Bridge cleanup takes months, and more"
     }
