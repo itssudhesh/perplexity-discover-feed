@@ -1675,487 +1675,15 @@
       {
         "symbol": "BTCUSD",
         "name": "Bitcoin",
-        "change": 2709.3,
-        "price": 59192.9,
-        "changesPercentage": 4.7966,
-        "marketCap": 1190631680318.0,
+        "change": 389.74,
+        "price": 60677.88,
+        "changesPercentage": 0.6465,
+        "marketCap": 1220501212519.0,
         "currency": "USD",
         "exchange": "CRYPTO",
         "image": "https://finance-logo.perplexity.ai/crypto/BTCUSD?format=png&fallback=404&size=50",
         "imageDark": "https://finance-logo.perplexity.ai/crypto/BTCUSD?format=png&fallback=404&size=50&theme=dark",
         "history": [
-          {
-            "date": "2026-11-20T22:55:00-05:00",
-            "close": 56612.6
-          },
-          {
-            "date": "2026-11-20T23:00:00-05:00",
-            "close": 56068.63
-          },
-          {
-            "date": "2026-11-20T23:05:00-05:00",
-            "close": 55656.44
-          },
-          {
-            "date": "2026-11-20T23:10:00-05:00",
-            "close": 55810.62
-          },
-          {
-            "date": "2026-11-20T23:15:00-05:00",
-            "close": 55788.27
-          },
-          {
-            "date": "2026-11-20T23:20:00-05:00",
-            "close": 55715.0
-          },
-          {
-            "date": "2026-11-20T23:25:00-05:00",
-            "close": 55629.1
-          },
-          {
-            "date": "2026-11-20T23:30:00-05:00",
-            "close": 55961.69
-          },
-          {
-            "date": "2026-11-20T23:35:00-05:00",
-            "close": 55881.36
-          },
-          {
-            "date": "2026-11-20T23:40:00-05:00",
-            "close": 55837.27
-          },
-          {
-            "date": "2026-11-20T23:45:00-05:00",
-            "close": 56234.82
-          },
-          {
-            "date": "2026-11-20T23:50:00-05:00",
-            "close": 56261.86
-          },
-          {
-            "date": "2026-11-20T23:55:00-05:00",
-            "close": 56174.35
-          },
-          {
-            "date": "2026-11-21T00:00:00-05:00",
-            "close": 56265.27
-          },
-          {
-            "date": "2026-11-21T00:05:00-05:00",
-            "close": 56221.67
-          },
-          {
-            "date": "2026-11-21T00:10:00-05:00",
-            "close": 56200.98
-          },
-          {
-            "date": "2026-11-21T00:15:00-05:00",
-            "close": 56030.16
-          },
-          {
-            "date": "2026-11-21T00:20:00-05:00",
-            "close": 56063.49
-          },
-          {
-            "date": "2026-11-21T00:25:00-05:00",
-            "close": 56026.49
-          },
-          {
-            "date": "2026-11-21T00:30:00-05:00",
-            "close": 55839.54
-          },
-          {
-            "date": "2026-11-21T00:35:00-05:00",
-            "close": 55966.84
-          },
-          {
-            "date": "2026-11-21T00:40:00-05:00",
-            "close": 55697.06
-          },
-          {
-            "date": "2026-11-21T00:45:00-05:00",
-            "close": 55804.48
-          },
-          {
-            "date": "2026-11-21T00:50:00-05:00",
-            "close": 55740.38
-          },
-          {
-            "date": "2026-11-21T00:55:00-05:00",
-            "close": 55659.68
-          },
-          {
-            "date": "2026-11-21T01:00:00-05:00",
-            "close": 55623.28
-          },
-          {
-            "date": "2026-11-21T01:05:00-05:00",
-            "close": 55664.66
-          },
-          {
-            "date": "2026-11-21T01:10:00-05:00",
-            "close": 55591.21
-          },
-          {
-            "date": "2026-11-21T01:15:00-05:00",
-            "close": 55866.08
-          },
-          {
-            "date": "2026-11-21T01:20:00-05:00",
-            "close": 55809.03
-          },
-          {
-            "date": "2026-11-21T01:25:00-05:00",
-            "close": 55974.65
-          },
-          {
-            "date": "2026-11-21T01:30:00-05:00",
-            "close": 56311.18
-          },
-          {
-            "date": "2026-11-21T01:35:00-05:00",
-            "close": 56529.71
-          },
-          {
-            "date": "2026-11-21T01:40:00-05:00",
-            "close": 57088.75
-          },
-          {
-            "date": "2026-11-21T01:45:00-05:00",
-            "close": 57506.1
-          },
-          {
-            "date": "2026-11-21T01:50:00-05:00",
-            "close": 57657.87
-          },
-          {
-            "date": "2026-11-21T01:55:00-05:00",
-            "close": 57931.27
-          },
-          {
-            "date": "2026-11-21T02:00:00-05:00",
-            "close": 57823.66
-          },
-          {
-            "date": "2026-11-21T02:05:00-05:00",
-            "close": 58290.98
-          },
-          {
-            "date": "2026-11-21T02:10:00-05:00",
-            "close": 58048.91
-          },
-          {
-            "date": "2026-11-21T02:15:00-05:00",
-            "close": 58146.44
-          },
-          {
-            "date": "2026-11-21T02:20:00-05:00",
-            "close": 58188.43
-          },
-          {
-            "date": "2026-11-21T02:25:00-05:00",
-            "close": 58032.93
-          },
-          {
-            "date": "2026-11-21T02:30:00-05:00",
-            "close": 58119.92
-          },
-          {
-            "date": "2026-11-21T02:35:00-05:00",
-            "close": 58092.08
-          },
-          {
-            "date": "2026-11-21T02:40:00-05:00",
-            "close": 57976.05
-          },
-          {
-            "date": "2026-11-21T02:45:00-05:00",
-            "close": 57731.82
-          },
-          {
-            "date": "2026-11-21T02:50:00-05:00",
-            "close": 57884.37
-          },
-          {
-            "date": "2026-11-21T02:55:00-05:00",
-            "close": 57863.2
-          },
-          {
-            "date": "2026-11-21T03:00:00-05:00",
-            "close": 57649.78
-          },
-          {
-            "date": "2026-11-21T03:05:00-05:00",
-            "close": 57606.68
-          },
-          {
-            "date": "2026-11-21T03:10:00-05:00",
-            "close": 57666.97
-          },
-          {
-            "date": "2026-11-21T03:15:00-05:00",
-            "close": 57704.09
-          },
-          {
-            "date": "2026-11-21T03:20:00-05:00",
-            "close": 57534.49
-          },
-          {
-            "date": "2026-11-21T03:25:00-05:00",
-            "close": 57558.0
-          },
-          {
-            "date": "2026-11-21T03:30:00-05:00",
-            "close": 57263.86
-          },
-          {
-            "date": "2026-11-21T03:35:00-05:00",
-            "close": 57446.29
-          },
-          {
-            "date": "2026-11-21T03:40:00-05:00",
-            "close": 57717.99
-          },
-          {
-            "date": "2026-11-21T03:45:00-05:00",
-            "close": 57935.81
-          },
-          {
-            "date": "2026-11-21T03:50:00-05:00",
-            "close": 57839.04
-          },
-          {
-            "date": "2026-11-21T03:55:00-05:00",
-            "close": 57674.23
-          },
-          {
-            "date": "2026-11-21T04:00:00-05:00",
-            "close": 57733.27
-          },
-          {
-            "date": "2026-11-21T04:05:00-05:00",
-            "close": 57784.25
-          },
-          {
-            "date": "2026-11-21T04:10:00-05:00",
-            "close": 57764.8
-          },
-          {
-            "date": "2026-11-21T04:15:00-05:00",
-            "close": 57681.51
-          },
-          {
-            "date": "2026-11-21T04:20:00-05:00",
-            "close": 57835.74
-          },
-          {
-            "date": "2026-11-21T04:25:00-05:00",
-            "close": 57903.28
-          },
-          {
-            "date": "2026-11-21T04:30:00-05:00",
-            "close": 57839.49
-          },
-          {
-            "date": "2026-11-21T04:35:00-05:00",
-            "close": 57766.55
-          },
-          {
-            "date": "2026-11-21T04:40:00-05:00",
-            "close": 57860.71
-          },
-          {
-            "date": "2026-11-21T04:45:00-05:00",
-            "close": 57823.22
-          },
-          {
-            "date": "2026-11-21T04:50:00-05:00",
-            "close": 57862.49
-          },
-          {
-            "date": "2026-11-21T04:55:00-05:00",
-            "close": 57895.23
-          },
-          {
-            "date": "2026-11-21T05:00:00-05:00",
-            "close": 57875.66
-          },
-          {
-            "date": "2026-11-21T05:05:00-05:00",
-            "close": 57947.22
-          },
-          {
-            "date": "2026-11-21T05:10:00-05:00",
-            "close": 57845.56
-          },
-          {
-            "date": "2026-11-21T05:15:00-05:00",
-            "close": 57783.84
-          },
-          {
-            "date": "2026-11-21T05:20:00-05:00",
-            "close": 57890.87
-          },
-          {
-            "date": "2026-11-21T05:25:00-05:00",
-            "close": 57971.54
-          },
-          {
-            "date": "2026-11-21T05:30:00-05:00",
-            "close": 57786.96
-          },
-          {
-            "date": "2026-11-21T05:35:00-05:00",
-            "close": 57787.49
-          },
-          {
-            "date": "2026-11-21T05:40:00-05:00",
-            "close": 57754.36
-          },
-          {
-            "date": "2026-11-21T05:45:00-05:00",
-            "close": 57855.67
-          },
-          {
-            "date": "2026-11-21T05:50:00-05:00",
-            "close": 57889.49
-          },
-          {
-            "date": "2026-11-21T05:55:00-05:00",
-            "close": 57811.96
-          },
-          {
-            "date": "2026-11-21T06:00:00-05:00",
-            "close": 57820.33
-          },
-          {
-            "date": "2026-11-21T06:05:00-05:00",
-            "close": 57873.21
-          },
-          {
-            "date": "2026-11-21T06:10:00-05:00",
-            "close": 57834.81
-          },
-          {
-            "date": "2026-11-21T06:15:00-05:00",
-            "close": 57759.24
-          },
-          {
-            "date": "2026-11-21T06:20:00-05:00",
-            "close": 57785.47
-          },
-          {
-            "date": "2026-11-21T06:25:00-05:00",
-            "close": 57818.57
-          },
-          {
-            "date": "2026-11-21T06:30:00-05:00",
-            "close": 58199.13
-          },
-          {
-            "date": "2026-11-21T06:35:00-05:00",
-            "close": 58099.47
-          },
-          {
-            "date": "2026-11-21T06:40:00-05:00",
-            "close": 58024.85
-          },
-          {
-            "date": "2026-11-21T06:45:00-05:00",
-            "close": 58026.53
-          },
-          {
-            "date": "2026-11-21T06:50:00-05:00",
-            "close": 58026.21
-          },
-          {
-            "date": "2026-11-21T06:55:00-05:00",
-            "close": 58072.21
-          },
-          {
-            "date": "2026-11-21T07:00:00-05:00",
-            "close": 58045.39
-          },
-          {
-            "date": "2026-11-21T07:05:00-05:00",
-            "close": 58046.38
-          },
-          {
-            "date": "2026-11-21T07:10:00-05:00",
-            "close": 58150.53
-          },
-          {
-            "date": "2026-11-21T07:15:00-05:00",
-            "close": 58373.92
-          },
-          {
-            "date": "2026-11-21T07:20:00-05:00",
-            "close": 58366.92
-          },
-          {
-            "date": "2026-11-21T07:25:00-05:00",
-            "close": 58339.67
-          },
-          {
-            "date": "2026-11-21T07:30:00-05:00",
-            "close": 58414.77
-          },
-          {
-            "date": "2026-11-21T07:35:00-05:00",
-            "close": 58719.83
-          },
-          {
-            "date": "2026-11-21T07:40:00-05:00",
-            "close": 58835.97
-          },
-          {
-            "date": "2026-11-21T07:45:00-05:00",
-            "close": 58698.39
-          },
-          {
-            "date": "2026-11-21T07:50:00-05:00",
-            "close": 58687.84
-          },
-          {
-            "date": "2026-11-21T07:55:00-05:00",
-            "close": 58730.13
-          },
-          {
-            "date": "2026-11-21T08:00:00-05:00",
-            "close": 58792.94
-          },
-          {
-            "date": "2026-11-21T08:05:00-05:00",
-            "close": 59145.74
-          },
-          {
-            "date": "2026-11-21T08:10:00-05:00",
-            "close": 59155.79
-          },
-          {
-            "date": "2026-11-21T08:15:00-05:00",
-            "close": 59085.09
-          },
-          {
-            "date": "2026-11-21T08:20:00-05:00",
-            "close": 59291.08
-          },
-          {
-            "date": "2026-11-21T08:25:00-05:00",
-            "close": 59476.01
-          },
-          {
-            "date": "2026-11-21T08:30:00-05:00",
-            "close": 59671.66
-          },
-          {
-            "date": "2026-11-21T08:35:00-05:00",
-            "close": 60557.46
-          },
-          {
-            "date": "2026-11-21T08:40:00-05:00",
-            "close": 60288.1
-          },
           {
             "date": "2026-11-21T08:45:00-05:00",
             "close": 60505.26
@@ -2834,11 +2362,483 @@
           },
           {
             "date": "2026-11-21T22:50:00-05:00",
-            "close": 59093.41
+            "close": 59192.45
+          },
+          {
+            "date": "2026-11-21T22:55:00-05:00",
+            "close": 59228.65
+          },
+          {
+            "date": "2026-11-21T23:00:00-05:00",
+            "close": 59444.44
+          },
+          {
+            "date": "2026-11-21T23:05:00-05:00",
+            "close": 59358.26
+          },
+          {
+            "date": "2026-11-21T23:10:00-05:00",
+            "close": 59334.17
+          },
+          {
+            "date": "2026-11-21T23:15:00-05:00",
+            "close": 59337.24
+          },
+          {
+            "date": "2026-11-21T23:20:00-05:00",
+            "close": 59092.15
+          },
+          {
+            "date": "2026-11-21T23:25:00-05:00",
+            "close": 59141.17
+          },
+          {
+            "date": "2026-11-21T23:30:00-05:00",
+            "close": 59325.97
+          },
+          {
+            "date": "2026-11-21T23:35:00-05:00",
+            "close": 59275.05
+          },
+          {
+            "date": "2026-11-21T23:40:00-05:00",
+            "close": 59184.74
+          },
+          {
+            "date": "2026-11-21T23:45:00-05:00",
+            "close": 59199.15
+          },
+          {
+            "date": "2026-11-21T23:50:00-05:00",
+            "close": 59166.29
+          },
+          {
+            "date": "2026-11-21T23:55:00-05:00",
+            "close": 59196.22
+          },
+          {
+            "date": "2026-11-22T00:00:00-05:00",
+            "close": 59049.31
+          },
+          {
+            "date": "2026-11-22T00:05:00-05:00",
+            "close": 59011.94
+          },
+          {
+            "date": "2026-11-22T00:10:00-05:00",
+            "close": 58860.11
+          },
+          {
+            "date": "2026-11-22T00:15:00-05:00",
+            "close": 58740.62
+          },
+          {
+            "date": "2026-11-22T00:20:00-05:00",
+            "close": 58871.68
+          },
+          {
+            "date": "2026-11-22T00:25:00-05:00",
+            "close": 58886.95
+          },
+          {
+            "date": "2026-11-22T00:30:00-05:00",
+            "close": 58814.98
+          },
+          {
+            "date": "2026-11-22T00:35:00-05:00",
+            "close": 58685.96
+          },
+          {
+            "date": "2026-11-22T00:40:00-05:00",
+            "close": 58696.37
+          },
+          {
+            "date": "2026-11-22T00:45:00-05:00",
+            "close": 58721.0
+          },
+          {
+            "date": "2026-11-22T00:50:00-05:00",
+            "close": 58870.07
+          },
+          {
+            "date": "2026-11-22T00:55:00-05:00",
+            "close": 58802.49
+          },
+          {
+            "date": "2026-11-22T01:00:00-05:00",
+            "close": 58995.3
+          },
+          {
+            "date": "2026-11-22T01:05:00-05:00",
+            "close": 59062.42
+          },
+          {
+            "date": "2026-11-22T01:10:00-05:00",
+            "close": 58976.18
+          },
+          {
+            "date": "2026-11-22T01:15:00-05:00",
+            "close": 58978.8
+          },
+          {
+            "date": "2026-11-22T01:20:00-05:00",
+            "close": 58885.08
+          },
+          {
+            "date": "2026-11-22T01:25:00-05:00",
+            "close": 58924.85
+          },
+          {
+            "date": "2026-11-22T01:30:00-05:00",
+            "close": 58932.83
+          },
+          {
+            "date": "2026-11-22T01:35:00-05:00",
+            "close": 59131.15
+          },
+          {
+            "date": "2026-11-22T01:40:00-05:00",
+            "close": 59063.26
+          },
+          {
+            "date": "2026-11-22T01:45:00-05:00",
+            "close": 59090.3
+          },
+          {
+            "date": "2026-11-22T01:50:00-05:00",
+            "close": 59028.93
+          },
+          {
+            "date": "2026-11-22T01:55:00-05:00",
+            "close": 59039.3
+          },
+          {
+            "date": "2026-11-22T02:00:00-05:00",
+            "close": 59000.91
+          },
+          {
+            "date": "2026-11-22T02:05:00-05:00",
+            "close": 59034.15
+          },
+          {
+            "date": "2026-11-22T02:10:00-05:00",
+            "close": 59057.85
+          },
+          {
+            "date": "2026-11-22T02:15:00-05:00",
+            "close": 59024.73
+          },
+          {
+            "date": "2026-11-22T02:20:00-05:00",
+            "close": 59053.06
+          },
+          {
+            "date": "2026-11-22T02:25:00-05:00",
+            "close": 58989.47
+          },
+          {
+            "date": "2026-11-22T02:30:00-05:00",
+            "close": 59040.83
+          },
+          {
+            "date": "2026-11-22T02:35:00-05:00",
+            "close": 58917.03
+          },
+          {
+            "date": "2026-11-22T02:40:00-05:00",
+            "close": 58937.49
+          },
+          {
+            "date": "2026-11-22T02:45:00-05:00",
+            "close": 59020.73
+          },
+          {
+            "date": "2026-11-22T02:50:00-05:00",
+            "close": 59062.04
+          },
+          {
+            "date": "2026-11-22T02:55:00-05:00",
+            "close": 59052.2
+          },
+          {
+            "date": "2026-11-22T03:00:00-05:00",
+            "close": 58982.66
+          },
+          {
+            "date": "2026-11-22T03:05:00-05:00",
+            "close": 59033.02
+          },
+          {
+            "date": "2026-11-22T03:10:00-05:00",
+            "close": 59263.57
+          },
+          {
+            "date": "2026-11-22T03:15:00-05:00",
+            "close": 59273.14
+          },
+          {
+            "date": "2026-11-22T03:20:00-05:00",
+            "close": 59660.84
+          },
+          {
+            "date": "2026-11-22T03:25:00-05:00",
+            "close": 59649.47
+          },
+          {
+            "date": "2026-11-22T03:30:00-05:00",
+            "close": 59747.63
+          },
+          {
+            "date": "2026-11-22T03:35:00-05:00",
+            "close": 60100.42
+          },
+          {
+            "date": "2026-11-22T03:40:00-05:00",
+            "close": 59655.58
+          },
+          {
+            "date": "2026-11-22T03:45:00-05:00",
+            "close": 59542.55
+          },
+          {
+            "date": "2026-11-22T03:50:00-05:00",
+            "close": 59640.65
+          },
+          {
+            "date": "2026-11-22T03:55:00-05:00",
+            "close": 59688.53
+          },
+          {
+            "date": "2026-11-22T04:00:00-05:00",
+            "close": 59695.84
+          },
+          {
+            "date": "2026-11-22T04:05:00-05:00",
+            "close": 59579.84
+          },
+          {
+            "date": "2026-11-22T04:10:00-05:00",
+            "close": 59588.72
+          },
+          {
+            "date": "2026-11-22T04:15:00-05:00",
+            "close": 59876.07
+          },
+          {
+            "date": "2026-11-22T04:20:00-05:00",
+            "close": 59883.88
+          },
+          {
+            "date": "2026-11-22T04:25:00-05:00",
+            "close": 59834.42
+          },
+          {
+            "date": "2026-11-22T04:30:00-05:00",
+            "close": 59863.41
+          },
+          {
+            "date": "2026-11-22T04:35:00-05:00",
+            "close": 60071.61
+          },
+          {
+            "date": "2026-11-22T04:40:00-05:00",
+            "close": 60107.39
+          },
+          {
+            "date": "2026-11-22T04:45:00-05:00",
+            "close": 60143.54
+          },
+          {
+            "date": "2026-11-22T04:50:00-05:00",
+            "close": 60768.02
+          },
+          {
+            "date": "2026-11-22T04:55:00-05:00",
+            "close": 60994.69
+          },
+          {
+            "date": "2026-11-22T05:00:00-05:00",
+            "close": 60793.86
+          },
+          {
+            "date": "2026-11-22T05:05:00-05:00",
+            "close": 61079.65
+          },
+          {
+            "date": "2026-11-22T05:10:00-05:00",
+            "close": 60935.72213
+          },
+          {
+            "date": "2026-11-22T05:15:00-05:00",
+            "close": 60768.7
+          },
+          {
+            "date": "2026-11-22T05:20:00-05:00",
+            "close": 60759.57
+          },
+          {
+            "date": "2026-11-22T05:25:00-05:00",
+            "close": 60782.75
+          },
+          {
+            "date": "2026-11-22T05:30:00-05:00",
+            "close": 60591.83
+          },
+          {
+            "date": "2026-11-22T05:35:00-05:00",
+            "close": 60677.62
+          },
+          {
+            "date": "2026-11-22T05:40:00-05:00",
+            "close": 60636.35
+          },
+          {
+            "date": "2026-11-22T05:45:00-05:00",
+            "close": 60727.6
+          },
+          {
+            "date": "2026-11-22T05:50:00-05:00",
+            "close": 60808.56
+          },
+          {
+            "date": "2026-11-22T05:55:00-05:00",
+            "close": 60766.16
+          },
+          {
+            "date": "2026-11-22T06:00:00-05:00",
+            "close": 60785.94
+          },
+          {
+            "date": "2026-11-22T06:05:00-05:00",
+            "close": 60780.85
+          },
+          {
+            "date": "2026-11-22T06:10:00-05:00",
+            "close": 60864.5
+          },
+          {
+            "date": "2026-11-22T06:15:00-05:00",
+            "close": 60807.85
+          },
+          {
+            "date": "2026-11-22T06:20:00-05:00",
+            "close": 60843.37
+          },
+          {
+            "date": "2026-11-22T06:25:00-05:00",
+            "close": 60884.12
+          },
+          {
+            "date": "2026-11-22T06:30:00-05:00",
+            "close": 60939.5
+          },
+          {
+            "date": "2026-11-22T06:35:00-05:00",
+            "close": 60925.23
+          },
+          {
+            "date": "2026-11-22T06:40:00-05:00",
+            "close": 60878.94
+          },
+          {
+            "date": "2026-11-22T06:45:00-05:00",
+            "close": 60834.98
+          },
+          {
+            "date": "2026-11-22T06:50:00-05:00",
+            "close": 61002.55289
+          },
+          {
+            "date": "2026-11-22T06:55:00-05:00",
+            "close": 60949.66
+          },
+          {
+            "date": "2026-11-22T07:00:00-05:00",
+            "close": 61027.78
+          },
+          {
+            "date": "2026-11-22T07:05:00-05:00",
+            "close": 61113.96
+          },
+          {
+            "date": "2026-11-22T07:10:00-05:00",
+            "close": 61107.11
+          },
+          {
+            "date": "2026-11-22T07:15:00-05:00",
+            "close": 61305.36
+          },
+          {
+            "date": "2026-11-22T07:20:00-05:00",
+            "close": 60533.74
+          },
+          {
+            "date": "2026-11-22T07:25:00-05:00",
+            "close": 60532.02
+          },
+          {
+            "date": "2026-11-22T07:30:00-05:00",
+            "close": 60551.11
+          },
+          {
+            "date": "2026-11-22T07:35:00-05:00",
+            "close": 60413.79
+          },
+          {
+            "date": "2026-11-22T07:40:00-05:00",
+            "close": 60624.22
+          },
+          {
+            "date": "2026-11-22T07:45:00-05:00",
+            "close": 60737.43
+          },
+          {
+            "date": "2026-11-22T07:50:00-05:00",
+            "close": 60720.27324
+          },
+          {
+            "date": "2026-11-22T07:55:00-05:00",
+            "close": 60735.59
+          },
+          {
+            "date": "2026-11-22T08:00:00-05:00",
+            "close": 60618.13
+          },
+          {
+            "date": "2026-11-22T08:05:00-05:00",
+            "close": 60582.31
+          },
+          {
+            "date": "2026-11-22T08:10:00-05:00",
+            "close": 60680.35
+          },
+          {
+            "date": "2026-11-22T08:15:00-05:00",
+            "close": 60648.06
+          },
+          {
+            "date": "2026-11-22T08:20:00-05:00",
+            "close": 60644.92
+          },
+          {
+            "date": "2026-11-22T08:25:00-05:00",
+            "close": 60596.12
+          },
+          {
+            "date": "2026-11-22T08:30:00-05:00",
+            "close": 60701.26
+          },
+          {
+            "date": "2026-11-22T08:35:00-05:00",
+            "close": 60773.87
+          },
+          {
+            "date": "2026-11-22T08:40:00-05:00",
+            "close": 60759.01
           }
         ],
         "historyPeriodLabel": null,
-        "historicalPreviousClose": 56483.6,
+        "historicalPreviousClose": 60288.14,
         "exchangeHours": null,
         "exchangeHoursAnnotations": [],
         "exchangeTimezone": "America/New_York"
@@ -3178,51 +3178,6 @@
         "exchangeTimezone": "America/Chicago"
       }
     ]
-  },
-  {
-    "url": "https://www.perplexity.ai/rest/discover/topics?version=2.18&source=default",
-    "body": {
-      "user_selected_topics": [],
-      "all_topics": [
-        {
-          "id": "9be812cb-6120-41b7-bc9e-993200db6cfc",
-          "name": "Tech & Science",
-          "icon": "microchip_ai",
-          "slug": "tech",
-          "translated_name": "Tech & Science"
-        },
-        {
-          "id": "e46915e3-9d25-4f85-9e43-e8a9d834729f",
-          "name": "Business",
-          "icon": "dollar_circle",
-          "slug": "finance",
-          "translated_name": "Business"
-        },
-        {
-          "id": "f00846db-e258-4455-9e9f-74b12cfbf06d",
-          "name": "Arts & Culture",
-          "icon": "palette",
-          "slug": "arts",
-          "translated_name": "Arts & Culture"
-        },
-        {
-          "id": "c69c15fd-559e-4714-b82c-481a89b82a94",
-          "name": "Sports",
-          "icon": "medal",
-          "slug": "sports",
-          "translated_name": "Sports"
-        },
-        {
-          "id": "0130fdd1-4017-43ac-91ae-59ace446130f",
-          "name": "Entertainment",
-          "icon": "tv",
-          "slug": "entertainment",
-          "translated_name": "Entertainment"
-        }
-      ],
-      "disable_links": null,
-      "show_links_toggle": false
-    }
   },
   {
     "url": "https://www.perplexity.ai/rest/discover/feed?limit=20&offset=0&topic=top&version=2.18&source=default",
@@ -7134,21 +7089,161 @@
           "title_line_limit": 2,
           "summary_line_limit": null,
           "web_results_preview": {
-            "total_count": 17,
+            "total_count": 14,
             "first_urls": [
-              "https://www.reuters.com",
-              "https://www.aa.com.tr",
-              "https://www.aljazeera.com"
+              "https://www.cbsnews.com",
+              "https://tribune.com.pk",
+              "https://fox4kc.com"
             ]
           },
           "bullet_summary_web_results_preload": [
             {
-              "name": "Bahrain warns residents of potential threat as Iran conflict persists",
+              "name": "Tanker hit by unknown projectile near Oman's Khasab, UKMTO says",
+              "snippet": "US President Donald Trump said on Saturday he intended to secure a \u201cpermanent\u201d deal with Iran, insisting that no future American president should be able to allow Tehran to obtain a nuclear weapon.",
+              "timestamp": "",
+              "url": "https://tribune.com.pk/story/2641499/iran-urges-world-to-remember-168-killed-in-us-airstrikes-on-school-in-minab",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 1,
+                "name": "trusted",
+                "description": "is trusted for professionally edited Pakistani news reporting, including politics and business",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Live Updates: Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027",
+              "snippet": "President Trump said Saturday that he wants to make a \"permanent\" deal with Iran that will prevent the country from gaining a nuclear weapon in the future.",
+              "timestamp": "",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/?ftag=CNM-00-10aab7e&linkId=1041626219",
+              "meta_data": {
+                "date": "2026-11-20"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 1,
+                "name": "trusted",
+                "description": "is trusted for professionally produced U.S. and international news reporting",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Trump insists Iran won't make an 'acceptable' deal as concerns grow ...",
               "snippet": "",
               "timestamp": "",
-              "url": "https://www.reuters.com/world/middle-east/bahrain-warns-residents-potential-threat-iran-conflict-persists-2026-11-21/",
+              "url": "https://fox4kc.com/politics/ap-politics/ap-trump-insists-iran-wont-make-an-acceptable-deal-as-concerns-grow-about-next-steps/amp/",
               "meta_data": {
-                "published_date": "2026-11-21"
+                "published_date": "2026-11-20"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 1,
+                "name": "trusted",
+                "description": "is trusted for Kansas City-area local reporting, weather, sports, and public affairs.",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Live Updates: Trump says he wants \"permanent\" deal with Iran",
+              "snippet": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+              "timestamp": "",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 1,
+                "name": "trusted",
+                "description": "is trusted for professionally produced U.S. and international news reporting",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Iran, Trump: \"I will make a permanent agreement, no one will be able to allow Tehran to have nuclear weapons\" | JIJI PRESS",
+              "snippet": "This is what Donald Trump said today in an interview with Fox News about the war in Iran, stating that he intends to ensure that future presidents will also be bound by the agreement with which he will end the war with Iran.",
+              "timestamp": "",
+              "url": "https://jen.jiji.com/iran-trump-i-will-make-a-permanent-agreement-no-one-will-be-able-to-allow-tehran-to-have-nuclear-weapons/",
+              "meta_data": {
+                "date": "2026-11-21"
               },
               "file_metadata": null,
               "is_attachment": false,
@@ -7170,204 +7265,9 @@
               "trust": {
                 "level": 2,
                 "name": "trusted",
-                "description": "is trusted for edited international news reporting, fact checks and business coverage",
+                "description": "is trusted for English-language news reporting on Japan and international affairs",
                 "type_of_trust": null
               },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Bahrain says Iranian attack sets \u2018civilian\u2019 industrial site ablaze",
-              "snippet": "",
-              "timestamp": "",
-              "url": "https://www.aa.com.tr/en/middle-east/bahrain-says-iranian-attack-sets-civilian-industrial-site-ablaze/4133214",
-              "meta_data": {
-                "published_date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": null,
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Iran\u2019s IRGC attacks two bases in Bahrain, industrial facility ablaze",
-              "snippet": "",
-              "timestamp": "",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles",
-              "meta_data": {
-                "published_date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 1,
-                "name": "trusted",
-                "description": "is trusted for international news reporting and investigations, with particular strength in coverage of the Middle East",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Bahrain says Iranian strike hit civilian industrial facility, sparking fire; IRGC says US bases targeted",
-              "snippet": "",
-              "timestamp": "",
-              "url": "https://www.timesofisrael.com/liveblog_entry/bahrain-says-iranian-strike-hit-civilian-industrial-facility-sparking-fire-irgc-says-us-bases-targeted/",
-              "meta_data": {
-                "published_date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 1,
-                "name": "trusted",
-                "description": "is trusted for newsroom reporting on Israel, the Middle East, and Jewish-world affairs",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Iranian attack sparks fire at civilian industrial facility in Bahrain",
-              "snippet": "",
-              "timestamp": "",
-              "url": "https://gulfnews.com/world/gulf/bahrain/iranian-attack-sparks-fire-at-civilian-industrial-facility-in-bahrain-1.500756564",
-              "meta_data": {
-                "published_date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": null,
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Iran live updates: US denies Iranian claim it struck, damaged F-16 jet over Gulf",
-              "snippet": "",
-              "timestamp": "",
-              "url": "https://abcnews.com/amp/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071&offset=26",
-              "meta_data": {
-                "published_date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 1,
-                "name": "trusted",
-                "description": "is trusted for edited U.S. and international news reporting",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Shafaq News..Explosion off Iran as Bahrain reports industrial site attack",
-              "snippet": "",
-              "timestamp": "",
-              "url": "https://shafaq.com/en/Middle-East/Explosion-off-Iran-as-Bahrain-reports-industrial-site-attack",
-              "meta_data": {
-                "published_date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": null,
               "summary": null,
               "page_id": null,
               "original_snippet": null
@@ -7375,26 +7275,26 @@
           ],
           "item_type": "pplx_page",
           "mode": "article",
-          "context_uuid": "fdac940a-1af6-428d-84ba-69570e748f78",
-          "uuid": "f70a4a45-9a3c-4587-a618-315fe1e09be9",
-          "slug": "iranian-strike-sets-bahrain-in-9wpKRZo8RYemGDFf4eCb6Q",
+          "context_uuid": "bcc5174b-cf01-42cd-bdb5-1ee169ac0d74",
+          "uuid": "def0ab1c-6cfd-414e-9ca4-de9f2844b489",
+          "slug": "trump-says-any-deal-to-end-ira-3vCrHGz9QU6cpN6fKES0iQ",
           "url": null,
-          "title": "Iran claims hits on US bases as Bahrain reports fire",
-          "short_title": "Iran strikes Bahrain facility",
-          "summary": "Bahrain's Interior Ministry reported no injuries, while the IRGC claimed it targeted US bases at Sheikh Isa and Juffair instead.",
-          "first_answer": "{\"answer\":\"Bahrain has reported repeated Iranian aerial attacks since November 13, including on November 15, 17 and 18. On Saturday it condemned the attacks again in letters to the United Nations, saying it had the right to protect its sovereignty and its people. On November 17, the IRGC said it sent drones at Sheikh Isa Air Base to hit an American radar system. US Central Command said those drones were...\"}",
-          "description": "Bahrain has reported repeated Iranian aerial attacks since November 13, including on November 15, 17 and 18. On Saturday it condemned the attacks again in letters to the United Nations, saying it had the right to protect its sovereignty and its people. On November 17, the IRGC said it sent drones at Sheikh Isa Air Base to hit an American radar system. US Central Command said those drones were...",
-          "bullet_summary_preload": "- Bahrain's **Interior Ministry** said an Iranian attack Saturday night set a civilian industrial facility on fire, causing material damage but no injuries, Anadolu reported[2].\n- The **IRGC** said it struck US bases at **Sheikh Isa** and **Juffair**, the latest of repeated Iranian attacks on Bahrain since Nov. 13[2][5].\n- Bahrain later issued an all-clear and condemned the attacks in UN letters; Washington denied an Iranian claim of damaging a US F-16[1][5][6].",
+          "title": "Trump says any deal to end Iran war must be 'permanent'",
+          "short_title": "Trump seeks permanent Iran deal",
+          "summary": "Trump said he wants an agreement binding future presidents. He cited Iran's record of broken deals as the war nears nine months.",
+          "first_answer": "{\"answer\":\"Months of indirect talks have not produced a ceasefire that would reopen the Strait of Hormuz. Iran has refused to discuss its nuclear program unless the U.S. lifts its naval blockade and accepts other conditions, CBS News reported. Trump also told Israel's Channel 12 that he is \\\"not rushing\\\" and may wait until after the new year to decide his next move.\\n\\nIran has recently expanded its attacks...\"}",
+          "description": "Months of indirect talks have not produced a ceasefire that would reopen the Strait of Hormuz. Iran has refused to discuss its nuclear program unless the U.S. lifts its naval blockade and accepts other conditions, CBS News reported. Trump also told Israel's Channel 12 that he is \"not rushing\" and may wait until after the new year to decide his next move.\n\nIran has recently expanded its attacks...",
+          "bullet_summary_preload": "- **President Donald Trump** told Fox News on Saturday that he wants a \"permanent\" deal so no future president could let **Iran** get a nuclear weapon[5][2].\n- Months of indirect talks have not produced a ceasefire to reopen the **Strait of Hormuz**, and Iran wants the U.S. naval blockade lifted first[4].\n- Trump said Friday that Tehran won't offer an \"acceptable\" deal and told an Israeli outlet his next move may not come until 2027[3][4].",
           "bullet_summary_inline_token_annotations": null,
           "featured_images": [
             {
               "medium": "image",
-              "url": "https://middle-east-online.com/en/iranian-attack-sparks-fire-civilian-industrial-facility-bahrain",
-              "source": "web",
-              "image": "https://pplx-res.cloudinary.com/image/fetch/s--ZpbPg4JC--/t_limit/https://middle-east-online.com/sites/default/files/styles/home_special_coverage_1920xauto/public/2026-11/Bahrain.jpg%3Fitok%3DQX4N_0Zj",
+              "url": "https://www.the-express.com/news/politics/220191/trump-iran-deal-regime-change",
+              "source": "getty",
+              "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1795292333/getty_uploads/2305547479_zlntcd.jpg",
               "image_id": null,
-              "name": "Iranian attack sparks fire at civilian industrial facility in Bahrain | MEO",
-              "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--qNwd1V9O--/t_thumbnail/https://middle-east-online.com/sites/default/files/styles/home_special_coverage_1920xauto/public/2026-11/Bahrain.jpg%3Fitok%3DQX4N_0Zj",
+              "name": "Trump says he'll make permanent deal with Iran after his ultimate regime change",
+              "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1795292333/getty_uploads/2305547479_zlntcd.jpg",
               "thumbnail_384": null,
               "thumbnail_512": null,
               "thumbnail_512_smart": null,
@@ -7405,8 +7305,8 @@
               "locations": null,
               "dark_image_url": null,
               "duration": null,
-              "image_width": 800,
-              "image_height": 450,
+              "image_width": null,
+              "image_height": null,
               "thumbnail_width": null,
               "thumbnail_height": null,
               "download_url": null,
@@ -7420,13 +7320,13 @@
           ],
           "hero_offset": -1.0,
           "metadata_type": "timestamp",
-          "updated_datetime": "2026-11-21T21:00:47.628121",
-          "author_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/b5d973e3-0931-41e7-c834-6d8d4ecb5900/thumbnail",
-          "author_username": "feylune",
+          "updated_datetime": "2026-11-21T20:20:27.090802",
+          "author_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/21c69ee0-9d5d-4770-4cb6-3d25c27c6200/thumbnail",
+          "author_username": "aaronmut",
           "interest_attribution": null,
-          "published_timestamp": "2026-11-21T21:00:47.628121",
-          "domain_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/b5d973e3-0931-41e7-c834-6d8d4ecb5900/thumbnail",
-          "domain_name": "feylune",
+          "published_timestamp": "2026-11-21T20:20:27.090802",
+          "domain_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/21c69ee0-9d5d-4770-4cb6-3d25c27c6200/thumbnail",
+          "domain_name": "aaronmut",
           "audio_url": null,
           "dataviz_url": null,
           "dataviz_signed_url": null,
@@ -7449,7 +7349,7 @@
             "like_count": 0,
             "user_likes": false
           },
-          "last_query_datetime": "2026-11-21T21:00:47.628121",
+          "last_query_datetime": "2026-11-21T20:20:27.090802",
           "thread_number": 12,
           "thread_access": 2,
           "query_count": 1,
@@ -8392,824 +8292,6 @@
           "title_line_limit": 2,
           "summary_line_limit": null,
           "web_results_preview": {
-            "total_count": 14,
-            "first_urls": [
-              "https://www.cbsnews.com",
-              "https://tribune.com.pk",
-              "https://fox4kc.com"
-            ]
-          },
-          "bullet_summary_web_results_preload": [
-            {
-              "name": "Tanker hit by unknown projectile near Oman's Khasab, UKMTO says",
-              "snippet": "US President Donald Trump said on Saturday he intended to secure a \u201cpermanent\u201d deal with Iran, insisting that no future American president should be able to allow Tehran to obtain a nuclear weapon.",
-              "timestamp": "",
-              "url": "https://tribune.com.pk/story/2641499/iran-urges-world-to-remember-168-killed-in-us-airstrikes-on-school-in-minab",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 1,
-                "name": "trusted",
-                "description": "is trusted for professionally edited Pakistani news reporting, including politics and business",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Live Updates: Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027",
-              "snippet": "President Trump said Saturday that he wants to make a \"permanent\" deal with Iran that will prevent the country from gaining a nuclear weapon in the future.",
-              "timestamp": "",
-              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/?ftag=CNM-00-10aab7e&linkId=1041626219",
-              "meta_data": {
-                "date": "2026-11-20"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 1,
-                "name": "trusted",
-                "description": "is trusted for professionally produced U.S. and international news reporting",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Trump insists Iran won't make an 'acceptable' deal as concerns grow ...",
-              "snippet": "",
-              "timestamp": "",
-              "url": "https://fox4kc.com/politics/ap-politics/ap-trump-insists-iran-wont-make-an-acceptable-deal-as-concerns-grow-about-next-steps/amp/",
-              "meta_data": {
-                "published_date": "2026-11-20"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 1,
-                "name": "trusted",
-                "description": "is trusted for Kansas City-area local reporting, weather, sports, and public affairs.",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Live Updates: Trump says he wants \"permanent\" deal with Iran",
-              "snippet": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-              "timestamp": "",
-              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 1,
-                "name": "trusted",
-                "description": "is trusted for professionally produced U.S. and international news reporting",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Iran, Trump: \"I will make a permanent agreement, no one will be able to allow Tehran to have nuclear weapons\" | JIJI PRESS",
-              "snippet": "This is what Donald Trump said today in an interview with Fox News about the war in Iran, stating that he intends to ensure that future presidents will also be bound by the agreement with which he will end the war with Iran.",
-              "timestamp": "",
-              "url": "https://jen.jiji.com/iran-trump-i-will-make-a-permanent-agreement-no-one-will-be-able-to-allow-tehran-to-have-nuclear-weapons/",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 2,
-                "name": "trusted",
-                "description": "is trusted for English-language news reporting on Japan and international affairs",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            }
-          ],
-          "item_type": "pplx_page",
-          "mode": "article",
-          "context_uuid": "bcc5174b-cf01-42cd-bdb5-1ee169ac0d74",
-          "uuid": "def0ab1c-6cfd-414e-9ca4-de9f2844b489",
-          "slug": "trump-says-any-deal-to-end-ira-3vCrHGz9QU6cpN6fKES0iQ",
-          "url": null,
-          "title": "Trump says any deal to end Iran war must be 'permanent'",
-          "short_title": "Trump seeks permanent Iran deal",
-          "summary": "Trump said he wants an agreement binding future presidents. He cited Iran's record of broken deals as the war nears nine months.",
-          "first_answer": "{\"answer\":\"Months of indirect talks have not produced a ceasefire that would reopen the Strait of Hormuz. Iran has refused to discuss its nuclear program unless the U.S. lifts its naval blockade and accepts other conditions, CBS News reported. Trump also told Israel's Channel 12 that he is \\\"not rushing\\\" and may wait until after the new year to decide his next move.\\n\\nIran has recently expanded its attacks...\"}",
-          "description": "Months of indirect talks have not produced a ceasefire that would reopen the Strait of Hormuz. Iran has refused to discuss its nuclear program unless the U.S. lifts its naval blockade and accepts other conditions, CBS News reported. Trump also told Israel's Channel 12 that he is \"not rushing\" and may wait until after the new year to decide his next move.\n\nIran has recently expanded its attacks...",
-          "bullet_summary_preload": "- **President Donald Trump** told Fox News on Saturday that he wants a \"permanent\" deal so no future president could let **Iran** get a nuclear weapon[5][2].\n- Months of indirect talks have not produced a ceasefire to reopen the **Strait of Hormuz**, and Iran wants the U.S. naval blockade lifted first[4].\n- Trump said Friday that Tehran won't offer an \"acceptable\" deal and told an Israeli outlet his next move may not come until 2027[3][4].",
-          "bullet_summary_inline_token_annotations": null,
-          "featured_images": [
-            {
-              "medium": "image",
-              "url": "https://www.the-express.com/news/politics/220191/trump-iran-deal-regime-change",
-              "source": "getty",
-              "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1795292333/getty_uploads/2305547479_zlntcd.jpg",
-              "image_id": null,
-              "name": "Trump says he'll make permanent deal with Iran after his ultimate regime change",
-              "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1795292333/getty_uploads/2305547479_zlntcd.jpg",
-              "thumbnail_384": null,
-              "thumbnail_512": null,
-              "thumbnail_512_smart": null,
-              "caption": null,
-              "modal_url": null,
-              "author_name": null,
-              "author_url": null,
-              "locations": null,
-              "dark_image_url": null,
-              "duration": null,
-              "image_width": null,
-              "image_height": null,
-              "thumbnail_width": null,
-              "thumbnail_height": null,
-              "download_url": null,
-              "sponsored_uuid": null,
-              "ad_content_uuid": null,
-              "metadata": null,
-              "low_res_image": null,
-              "generated_media_metadata": null,
-              "original_image_url": null
-            }
-          ],
-          "hero_offset": -1.0,
-          "metadata_type": "timestamp",
-          "updated_datetime": "2026-11-21T20:20:27.090802",
-          "author_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/21c69ee0-9d5d-4770-4cb6-3d25c27c6200/thumbnail",
-          "author_username": "aaronmut",
-          "interest_attribution": null,
-          "published_timestamp": "2026-11-21T20:20:27.090802",
-          "domain_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/21c69ee0-9d5d-4770-4cb6-3d25c27c6200/thumbnail",
-          "domain_name": "aaronmut",
-          "audio_url": null,
-          "dataviz_url": null,
-          "dataviz_signed_url": null,
-          "has_next_page": true,
-          "collection": null,
-          "feedback_state": {
-            "like": false
-          },
-          "supported_feedbacks": {
-            "dislike": true,
-            "report": false
-          },
-          "discover_screener_query_uuid": null,
-          "is_live": null,
-          "article_number": 15,
-          "access": 2,
-          "social_info": {
-            "view_count": 0,
-            "fork_count": 0,
-            "like_count": 0,
-            "user_likes": false
-          },
-          "last_query_datetime": "2026-11-21T20:20:27.090802",
-          "thread_number": 15,
-          "thread_access": 2,
-          "query_count": 1,
-          "search_focus": "internet",
-          "sources": [],
-          "read_write_token": null,
-          "total_threads": 99,
-          "layout": "media-text",
-          "banners": []
-        },
-        {
-          "card_variant": "LARGE",
-          "title_line_limit": 2,
-          "summary_line_limit": null,
-          "web_results_preview": {
-            "total_count": 11,
-            "first_urls": [
-              "https://www.cnbctv18.com",
-              "https://gulfnews.com",
-              "https://www.firstpost.com"
-            ]
-          },
-          "bullet_summary_web_results_preload": [
-            {
-              "name": "Iran says allies China, Russia oppose change in nuclear doctrine - CNBC TV18",
-              "snippet": "",
-              "timestamp": "",
-              "url": "https://www.cnbctv18.com/world/iran-says-allies-china-russia-oppose-change-in-nuclear-doctrine-20039176.htm",
-              "meta_data": {
-                "published_date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": null,
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Middle East war: Trump says Iran wants deal but terms are unacceptable",
-              "snippet": "\"Russia and China are also opposed\" to a change in Iran's doctrine, he added.",
-              "timestamp": "",
-              "url": "https://gulfnews.com/uae/middle-east-war-trump-says-iran-wants-deal-but-terms-are-unacceptable-1.500755788",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": null,
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "China, Russia oppose change to Iran's nuclear doctrine, says Araghchi",
-              "snippet": "Foreign Minister Abbas Araghchi has said China and Russia oppose any change to Tehran's declared rejection of nuclear weapons,",
-              "timestamp": "",
-              "url": "https://www.firstpost.com/world/china-russia-oppose-change-to-irans-nuclear-doctrine-says-araghchi-14061719.html",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": null,
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
-              "snippet": "",
-              "timestamp": "",
-              "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme",
-              "meta_data": {
-                "published_date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 1,
-                "name": "trusted",
-                "description": "is trusted for international news reporting and investigations, with particular strength in coverage of the Middle East",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            }
-          ],
-          "item_type": "pplx_page",
-          "mode": "article",
-          "context_uuid": "6d662813-30e4-49e5-a10d-25a35c9eb9d0",
-          "uuid": "89ae10af-b5e0-485f-b402-2c09d4a280db",
-          "slug": "iran-s-araghchi-says-china-rus-ia4Qr7XgSF.0AiwJ1KKA2w",
-          "url": null,
-          "title": "Iran's Araghchi says China, Russia oppose doctrine shift",
-          "short_title": "Allies oppose doctrine shift",
-          "summary": "Araghchi said Tehran's rejection of nuclear weapons remains unchanged, as hardliners push for a deterrent after wars with Israel and the US.",
-          "first_answer": "{\"answer\":\"Rouzbeh Parsi of Lund University told Al Jazeera that leaving the nuclear Non-Proliferation Treaty and pursuing a weapon was once a fringe idea but is \\\"now something that's within the realm of possibility.\\\" He added, \\\"It's not a decision but an indication that deterrence is being rethought.\\\" Simon Mabon of Lancaster University warned that even a defensive shift \\\"can easily be read in offensive...\"}",
-          "description": "Rouzbeh Parsi of Lund University told Al Jazeera that leaving the nuclear Non-Proliferation Treaty and pursuing a weapon was once a fringe idea but is \"now something that's within the realm of possibility.\" He added, \"It's not a decision but an indication that deterrence is being rethought.\" Simon Mabon of Lancaster University warned that even a defensive shift \"can easily be read in offensive...",
-          "bullet_summary_preload": "- Foreign Minister **Abbas Araghchi** told the state-run Iran Daily on Saturday that **China** and **Russia** oppose any change to Tehran's nuclear doctrine[3].\n- The **Assembly of Experts** said Nov. 12 that a doctrine review was \"unavoidable\" after a US-Israeli strike killed **Ayatollah Ali Khamenei** in February[4][1].\n- Lancaster University's Simon Mabon told Al Jazeera that any shift could be read as offensive, calling it \"a very, very dangerous moment\"[4].",
-          "bullet_summary_inline_token_annotations": null,
-          "featured_images": [
-            {
-              "medium": "image",
-              "url": "https://www.moneycontrol.com/world/china-russia-oppose-change-in-iran-s-nuclear-doctrine-says-foreign-minister-abbas-araghchi-article-14086280.html",
-              "source": "getty",
-              "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1795281567/getty_uploads/2261635235_wkfnfr.jpg",
-              "image_id": null,
-              "name": "China, Russia oppose change in Iran's nuclear doctrine, says Foreign ...",
-              "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1795281567/getty_uploads/2261635235_wkfnfr.jpg",
-              "thumbnail_384": null,
-              "thumbnail_512": null,
-              "thumbnail_512_smart": null,
-              "caption": null,
-              "modal_url": null,
-              "author_name": null,
-              "author_url": null,
-              "locations": null,
-              "dark_image_url": null,
-              "duration": null,
-              "image_width": null,
-              "image_height": null,
-              "thumbnail_width": null,
-              "thumbnail_height": null,
-              "download_url": null,
-              "sponsored_uuid": null,
-              "ad_content_uuid": null,
-              "metadata": null,
-              "low_res_image": null,
-              "generated_media_metadata": null,
-              "original_image_url": null
-            }
-          ],
-          "hero_offset": -1.0,
-          "metadata_type": "timestamp",
-          "updated_datetime": "2026-11-21T17:22:41.181121",
-          "author_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/21b187bb-9a85-43f2-8e6e-f8845b169900/thumbnail",
-          "author_username": "aetheris",
-          "interest_attribution": null,
-          "published_timestamp": "2026-11-21T17:22:41.181121",
-          "domain_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/21b187bb-9a85-43f2-8e6e-f8845b169900/thumbnail",
-          "domain_name": "aetheris",
-          "audio_url": null,
-          "dataviz_url": null,
-          "dataviz_signed_url": null,
-          "has_next_page": true,
-          "collection": null,
-          "feedback_state": {
-            "like": false
-          },
-          "supported_feedbacks": {
-            "dislike": true,
-            "report": false
-          },
-          "discover_screener_query_uuid": null,
-          "is_live": null,
-          "article_number": 16,
-          "access": 2,
-          "social_info": {
-            "view_count": 0,
-            "fork_count": 0,
-            "like_count": 0,
-            "user_likes": false
-          },
-          "last_query_datetime": "2026-11-21T17:22:41.181121",
-          "thread_number": 16,
-          "thread_access": 2,
-          "query_count": 1,
-          "search_focus": "internet",
-          "sources": [],
-          "read_write_token": null,
-          "total_threads": 99,
-          "layout": "media-text",
-          "banners": []
-        },
-        {
-          "card_variant": "LARGE",
-          "title_line_limit": 2,
-          "summary_line_limit": null,
-          "web_results_preview": {
-            "total_count": 14,
-            "first_urls": [
-              "https://www.moneycontrol.com",
-              "https://www.iranintl.com",
-              "https://www.ansa.it"
-            ]
-          },
-          "bullet_summary_web_results_preload": [
-            {
-              "name": "Pezeshkian says Iran facing 'silent economic war' tougher than war with ...",
-              "snippet": "",
-              "timestamp": "",
-              "url": "https://www.moneycontrol.com/world/pezeshkian-says-iran-facing-silent-economic-war-tougher-than-war-with-missiles-article-14086172.html/amp",
-              "meta_data": {
-                "published_date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": null,
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Iran engages in \"silent\" economic war: president",
-              "snippet": "",
-              "timestamp": "",
-              "url": "https://www.bignewsnetwork.com/news/279447169/iran-engages-in-silent-economic-war-president",
-              "meta_data": {
-                "published_date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": null,
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Iranian President: Economic warfare is more difficult than a war involving missile strikes",
-              "snippet": "Referring to the economic warfare being waged against Iran, the President said it is a silent war and is more difficult than a war in which missiles are launched and destruction occurs.",
-              "timestamp": "",
-              "url": "https://en.apa.az/asia/iranian-president-economic-warfare-is-more-difficult-than-a-war-involving-missile-strikes-537620",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": null,
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Bessent says Iran's rulers will turn on each other, Pezeshkian warns of ...",
-              "snippet": "Iran already faced energy shortfalls before the war, he said, and attacks on its gas production capacity had made them worse.",
-              "timestamp": "",
-              "url": "https://www.iranintl.com/en/202611219832",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": null,
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Pezeshkian says Iran\u2019s economic war is harder to withstand ...",
-              "snippet": "Iran is fighting a \u201csilent war\u201d on the economic front that is \u201cfar harder than a war in which missiles are fired and cause destruction,\u201d President Masoud Pezeshkian told investors on Saturday.",
-              "timestamp": "",
-              "url": "https://www.iranintl.com/en/202611210024",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": null,
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Pezeshkian, 'siamo impegnati in una guerra economica silenziosa' - Medio Oriente - Ansa.it",
-              "snippet": "gas ed elettricit\u00e0 - rimanga disponibile per tutto l'inverno;",
-              "timestamp": "",
-              "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/21/pezeshkian-siamo-impegnati-in-una-guerra-economica-silenziosa_ba08f792-6b23-47f7-bb99-294c2a18a582.html",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": {
-                "level": 2,
-                "name": "trusted",
-                "description": "is trusted for edited Italian and international news-agency reporting",
-                "type_of_trust": null
-              },
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            },
-            {
-              "name": "Economy",
-              "snippet": "Iran faces a worsening winter energy crisis after wartime damage to its gas infrastructure cut production capacity, with officials warning of shortages in 11 provinces and limited options to make up the shortfall.",
-              "timestamp": "",
-              "url": "https://www.iranintl.news/en/economy-and-environment",
-              "meta_data": {
-                "date": "2026-11-21"
-              },
-              "file_metadata": null,
-              "is_attachment": false,
-              "is_image": false,
-              "is_code_interpreter": false,
-              "is_knowledge_card": false,
-              "is_navigational": false,
-              "is_widget": false,
-              "sitelinks": null,
-              "is_focused_web": false,
-              "is_client_context": false,
-              "inline_entity_id": null,
-              "is_memory": false,
-              "is_conversation_history": false,
-              "is_conversation_summary": false,
-              "tab_id": null,
-              "is_scrubbed": null,
-              "is_hidden": null,
-              "trust": null,
-              "summary": null,
-              "page_id": null,
-              "original_snippet": null
-            }
-          ],
-          "item_type": "pplx_page",
-          "mode": "article",
-          "context_uuid": "4c2a7e45-7cf8-4b2d-917e-a111ac76e463",
-          "uuid": "4f68824b-0a25-4f5f-a3d9-89c9af444899",
-          "slug": "iran-s-president-says-economic-T2iCSwolT1.j2YnJr0RImQ",
-          "url": null,
-          "title": "Iran's president says economic war harder than missiles",
-          "short_title": "Pezeshkian warns economic war",
-          "summary": "Masoud Pezeshkian warned damaged gas infrastructure will make winter hard, saying government offices, not factories, would lose power first during shortages.",
-          "first_answer": "{\"answer\":\"The speech came a day after U.S. Treasury Secretary Scott Bessent defended what he calls Operation Economic Outcast. \\\"We are two and a half months into Operation Economic Outcast, and it is the greatest program in the history of the world to isolate a single country. And it is working,\\\" Bessent told Newsmax. The Treasury said no Iranian oil had been loaded onto vessels since the campaign...\"}",
-          "description": "The speech came a day after U.S. Treasury Secretary Scott Bessent defended what he calls Operation Economic Outcast. \"We are two and a half months into Operation Economic Outcast, and it is the greatest program in the history of the world to isolate a single country. And it is working,\" Bessent told Newsmax. The Treasury said no Iranian oil had been loaded onto vessels since the campaign...",
-          "bullet_summary_preload": "- Iranian President **Masoud Pezeshkian** told investors in Tehran on Saturday that Iran's \"silent\" economic war is harder than missile strikes, Iran International reported[5].\n- Wartime attacks on Iran's gas facilities cut production capacity, and officials warn of shortages in 11 provinces this winter[7][4].\n- His remarks came after U.S. Treasury Secretary **Scott Bessent** said economic pressure was working and predicted that Iran's rulers would turn on each other[4].",
-          "bullet_summary_inline_token_annotations": null,
-          "featured_images": [
-            {
-              "medium": "image",
-              "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/21/pezeshkian-siamo-impegnati-in-una-guerra-economica-silenziosa_ba08f792-6b23-47f7-bb99-294c2a18a582.html",
-              "source": "getty",
-              "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1795281150/getty_uploads/2301783558_v5mtmg.jpg",
-              "image_id": null,
-              "name": "Pezeshkian, 'siamo impegnati in una guerra economica silenziosa' - Medio Oriente - Ansa.it",
-              "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1795281150/getty_uploads/2301783558_v5mtmg.jpg",
-              "thumbnail_384": null,
-              "thumbnail_512": null,
-              "thumbnail_512_smart": null,
-              "caption": null,
-              "modal_url": null,
-              "author_name": null,
-              "author_url": null,
-              "locations": null,
-              "dark_image_url": null,
-              "duration": null,
-              "image_width": null,
-              "image_height": null,
-              "thumbnail_width": null,
-              "thumbnail_height": null,
-              "download_url": null,
-              "sponsored_uuid": null,
-              "ad_content_uuid": null,
-              "metadata": null,
-              "low_res_image": null,
-              "generated_media_metadata": null,
-              "original_image_url": null
-            }
-          ],
-          "hero_offset": -1.0,
-          "metadata_type": "timestamp",
-          "updated_datetime": "2026-11-21T17:13:19.173875",
-          "author_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/12c3f678-f2bd-49e3-eca3-a7ce722fa400/thumbnail",
-          "author_username": "mikeharb",
-          "interest_attribution": null,
-          "published_timestamp": "2026-11-21T17:13:19.173875",
-          "domain_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/12c3f678-f2bd-49e3-eca3-a7ce722fa400/thumbnail",
-          "domain_name": "mikeharb",
-          "audio_url": null,
-          "dataviz_url": null,
-          "dataviz_signed_url": null,
-          "has_next_page": true,
-          "collection": null,
-          "feedback_state": {
-            "like": false
-          },
-          "supported_feedbacks": {
-            "dislike": true,
-            "report": false
-          },
-          "discover_screener_query_uuid": null,
-          "is_live": null,
-          "article_number": 17,
-          "access": 2,
-          "social_info": {
-            "view_count": 0,
-            "fork_count": 0,
-            "like_count": 0,
-            "user_likes": false
-          },
-          "last_query_datetime": "2026-11-21T17:13:19.173875",
-          "thread_number": 17,
-          "thread_access": 2,
-          "query_count": 1,
-          "search_focus": "internet",
-          "sources": [],
-          "read_write_token": null,
-          "total_threads": 99,
-          "layout": "media-text",
-          "banners": []
-        },
-        {
-          "card_variant": "LARGE",
-          "title_line_limit": 2,
-          "summary_line_limit": null,
-          "web_results_preview": {
             "total_count": 13,
             "first_urls": [
               "https://www.newarab.com",
@@ -9487,7 +8569,7 @@
           },
           "discover_screener_query_uuid": null,
           "is_live": null,
-          "article_number": 18,
+          "article_number": 15,
           "access": 2,
           "social_info": {
             "view_count": 0,
@@ -9496,7 +8578,233 @@
             "user_likes": false
           },
           "last_query_datetime": "2026-11-21T19:12:53.667708",
-          "thread_number": 18,
+          "thread_number": 15,
+          "thread_access": 2,
+          "query_count": 1,
+          "search_focus": "internet",
+          "sources": [],
+          "read_write_token": null,
+          "total_threads": 99,
+          "layout": "media-text",
+          "banners": []
+        },
+        {
+          "card_variant": "LARGE",
+          "title_line_limit": 2,
+          "summary_line_limit": null,
+          "web_results_preview": {
+            "total_count": 11,
+            "first_urls": [
+              "https://www.cnbctv18.com",
+              "https://gulfnews.com",
+              "https://www.firstpost.com"
+            ]
+          },
+          "bullet_summary_web_results_preload": [
+            {
+              "name": "Iran says allies China, Russia oppose change in nuclear doctrine - CNBC TV18",
+              "snippet": "",
+              "timestamp": "",
+              "url": "https://www.cnbctv18.com/world/iran-says-allies-china-russia-oppose-change-in-nuclear-doctrine-20039176.htm",
+              "meta_data": {
+                "published_date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": null,
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Middle East war: Trump says Iran wants deal but terms are unacceptable",
+              "snippet": "\"Russia and China are also opposed\" to a change in Iran's doctrine, he added.",
+              "timestamp": "",
+              "url": "https://gulfnews.com/uae/middle-east-war-trump-says-iran-wants-deal-but-terms-are-unacceptable-1.500755788",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": null,
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "China, Russia oppose change to Iran's nuclear doctrine, says Araghchi",
+              "snippet": "Foreign Minister Abbas Araghchi has said China and Russia oppose any change to Tehran's declared rejection of nuclear weapons,",
+              "timestamp": "",
+              "url": "https://www.firstpost.com/world/china-russia-oppose-change-to-irans-nuclear-doctrine-says-araghchi-14061719.html",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": null,
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+              "snippet": "",
+              "timestamp": "",
+              "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme",
+              "meta_data": {
+                "published_date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 1,
+                "name": "trusted",
+                "description": "is trusted for international news reporting and investigations, with particular strength in coverage of the Middle East",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            }
+          ],
+          "item_type": "pplx_page",
+          "mode": "article",
+          "context_uuid": "6d662813-30e4-49e5-a10d-25a35c9eb9d0",
+          "uuid": "89ae10af-b5e0-485f-b402-2c09d4a280db",
+          "slug": "iran-s-araghchi-says-china-rus-ia4Qr7XgSF.0AiwJ1KKA2w",
+          "url": null,
+          "title": "Iran's Araghchi says China, Russia oppose doctrine shift",
+          "short_title": "Allies oppose doctrine shift",
+          "summary": "Araghchi said Tehran's rejection of nuclear weapons remains unchanged, as hardliners push for a deterrent after wars with Israel and the US.",
+          "first_answer": "{\"answer\":\"Rouzbeh Parsi of Lund University told Al Jazeera that leaving the nuclear Non-Proliferation Treaty and pursuing a weapon was once a fringe idea but is \\\"now something that's within the realm of possibility.\\\" He added, \\\"It's not a decision but an indication that deterrence is being rethought.\\\" Simon Mabon of Lancaster University warned that even a defensive shift \\\"can easily be read in offensive...\"}",
+          "description": "Rouzbeh Parsi of Lund University told Al Jazeera that leaving the nuclear Non-Proliferation Treaty and pursuing a weapon was once a fringe idea but is \"now something that's within the realm of possibility.\" He added, \"It's not a decision but an indication that deterrence is being rethought.\" Simon Mabon of Lancaster University warned that even a defensive shift \"can easily be read in offensive...",
+          "bullet_summary_preload": "- Foreign Minister **Abbas Araghchi** told the state-run Iran Daily on Saturday that **China** and **Russia** oppose any change to Tehran's nuclear doctrine[3].\n- The **Assembly of Experts** said Nov. 12 that a doctrine review was \"unavoidable\" after a US-Israeli strike killed **Ayatollah Ali Khamenei** in February[4][1].\n- Lancaster University's Simon Mabon told Al Jazeera that any shift could be read as offensive, calling it \"a very, very dangerous moment\"[4].",
+          "bullet_summary_inline_token_annotations": null,
+          "featured_images": [
+            {
+              "medium": "image",
+              "url": "https://www.moneycontrol.com/world/china-russia-oppose-change-in-iran-s-nuclear-doctrine-says-foreign-minister-abbas-araghchi-article-14086280.html",
+              "source": "getty",
+              "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1795281567/getty_uploads/2261635235_wkfnfr.jpg",
+              "image_id": null,
+              "name": "China, Russia oppose change in Iran's nuclear doctrine, says Foreign ...",
+              "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1795281567/getty_uploads/2261635235_wkfnfr.jpg",
+              "thumbnail_384": null,
+              "thumbnail_512": null,
+              "thumbnail_512_smart": null,
+              "caption": null,
+              "modal_url": null,
+              "author_name": null,
+              "author_url": null,
+              "locations": null,
+              "dark_image_url": null,
+              "duration": null,
+              "image_width": null,
+              "image_height": null,
+              "thumbnail_width": null,
+              "thumbnail_height": null,
+              "download_url": null,
+              "sponsored_uuid": null,
+              "ad_content_uuid": null,
+              "metadata": null,
+              "low_res_image": null,
+              "generated_media_metadata": null,
+              "original_image_url": null
+            }
+          ],
+          "hero_offset": -1.0,
+          "metadata_type": "timestamp",
+          "updated_datetime": "2026-11-21T17:22:41.181121",
+          "author_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/21b187bb-9a85-43f2-8e6e-f8845b169900/thumbnail",
+          "author_username": "aetheris",
+          "interest_attribution": null,
+          "published_timestamp": "2026-11-21T17:22:41.181121",
+          "domain_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/21b187bb-9a85-43f2-8e6e-f8845b169900/thumbnail",
+          "domain_name": "aetheris",
+          "audio_url": null,
+          "dataviz_url": null,
+          "dataviz_signed_url": null,
+          "has_next_page": true,
+          "collection": null,
+          "feedback_state": {
+            "like": false
+          },
+          "supported_feedbacks": {
+            "dislike": true,
+            "report": false
+          },
+          "discover_screener_query_uuid": null,
+          "is_live": null,
+          "article_number": 16,
+          "access": 2,
+          "social_info": {
+            "view_count": 0,
+            "fork_count": 0,
+            "like_count": 0,
+            "user_likes": false
+          },
+          "last_query_datetime": "2026-11-21T17:22:41.181121",
+          "thread_number": 16,
           "thread_access": 2,
           "query_count": 1,
           "search_focus": "internet",
@@ -9793,7 +9101,7 @@
           },
           "discover_screener_query_uuid": null,
           "is_live": null,
-          "article_number": 19,
+          "article_number": 17,
           "access": 2,
           "social_info": {
             "view_count": 0,
@@ -9802,6 +9110,603 @@
             "user_likes": false
           },
           "last_query_datetime": "2026-11-21T17:13:39.401385",
+          "thread_number": 17,
+          "thread_access": 2,
+          "query_count": 1,
+          "search_focus": "internet",
+          "sources": [],
+          "read_write_token": null,
+          "total_threads": 99,
+          "layout": "media-text",
+          "banners": []
+        },
+        {
+          "card_variant": "LARGE",
+          "title_line_limit": 2,
+          "summary_line_limit": null,
+          "web_results_preview": {
+            "total_count": 13,
+            "first_urls": [
+              "https://www.aljazeera.com",
+              "https://english.aawsat.com",
+              "https://www.reuters.com"
+            ]
+          },
+          "bullet_summary_web_results_preload": [
+            {
+              "name": "US denies Iranian account that missile damaged F-16 over Gulf",
+              "snippet": "",
+              "timestamp": "",
+              "url": "https://www.reuters.com/business/aerospace-defense/us-denies-iranian-account-that-missile-damaged-f-16-over-gulf-2026-11-21/",
+              "meta_data": {
+                "published_date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 2,
+                "name": "trusted",
+                "description": "is trusted for edited international news reporting, fact checks and business coverage",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Iran claims missile damaged US F-16 over Gulf, forced emergency landing | The Jerusalem Post",
+              "snippet": "",
+              "timestamp": "",
+              "url": "https://www.jpost.com/middle-east/iran-news/article-915637",
+              "meta_data": {
+                "published_date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": null,
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "US denies Iran army\u2019s claim it struck an F-16 over Gulf, forcing it to land",
+              "snippet": "US Central Command (CENTCOM) has denied a claim by Iran\u2019s army that its air defences had fired a missile at a US F-16 fighter jet over the Gulf on Friday evening, damaging the aircraft and forcing it to land.",
+              "timestamp": "",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?update=5174020",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 1,
+                "name": "trusted",
+                "description": "is trusted for international news reporting and investigations, with particular strength in coverage of the Middle East",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "CENTCOM denies Iranian claim of damage to US F-16 fighter jet",
+              "snippet": "US Central Command (CENTCOM) on Saturday denied Iranian claims that an air defense missile struck and damaged a US F-16 fighter jet, saying all American military fighter aircraft in the Middle East were safe and accounted for.",
+              "timestamp": "",
+              "url": "https://www.aa.com.tr/en/americas/centcom-denies-iranian-claim-of-damage-to-us-f-16-fighter-jet/4133053",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": null,
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "CENTCOM denies Iran's claim of missile strike on US F-16 over Gulf | The Jerusalem Post",
+              "snippet": "\u201cIran\u2019s Islamic Revolutionary Guard Corps claims it targeted and damaged a US F-16 fighter aircraft yesterday, forcing an emergency landing.",
+              "timestamp": "",
+              "url": "http://fr.jpost.com/middle-east/iran-news/article-915637",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": null,
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "CENTCOM denies Iranian claims of attack on F-16",
+              "snippet": "'Iran's Islamic Revolutionary Guard Corps claims it targeted and damaged a US F-16 fighter aircraft yesterday, forcing an emergency landing.",
+              "timestamp": "",
+              "url": "https://english.alarabiya.net/News/middle-east/2026/11/21/centcom-denies-iranian-claims-of-attack-on-f16",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 1,
+                "name": "trusted",
+                "description": "is trusted for professionally edited Saudi, Middle Eastern, and international news reporting from a major Saudi media group",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "U.S. Central Command (@CENTCOM) on X",
+              "snippet": "",
+              "timestamp": "",
+              "url": "https://x.com/CENTCOM/status/2124152057787482170",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": null,
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            }
+          ],
+          "item_type": "pplx_page",
+          "mode": "article",
+          "context_uuid": "933c6f8d-d8d9-401c-b851-4e9eb9c430ea",
+          "uuid": "2d277b5d-364b-4efa-87ce-e47a1ce18896",
+          "slug": "us-military-denies-iran-claim-LSd7XTZLTvqHzuR6HOGIlg",
+          "url": null,
+          "title": "US military denies Iran claim it damaged F-16 over Gulf",
+          "short_title": "US denies F-16 hit",
+          "summary": "Central Command called Iran's account false and said all US fighter jets in the Middle East are safe and accounted for.",
+          "first_answer": "{\"answer\":\"During the war, Iran has made several similar claims of shooting down or damaging US aircraft, and the US military has denied them. The war began in February when the United States and Israel attacked Iran. It has since spread across the Middle East, killed thousands of people, disrupted shipping and pushed up global energy prices.\\n\\nThere was more trouble at sea around the strait on the same...\"}",
+          "description": "During the war, Iran has made several similar claims of shooting down or damaging US aircraft, and the US military has denied them. The war began in February when the United States and Israel attacked Iran. It has since spread across the Middle East, killed thousands of people, disrupted shipping and pushed up global energy prices.\n\nThere was more trouble at sea around the strait on the same...",
+          "bullet_summary_preload": "- **CENTCOM** on Saturday called false Iran's claim that a missile damaged a US **F-16**, saying all American fighter jets are accounted for[7].\n- **Iran's army** said its air defenses hit the jet over the **Strait of Hormuz** Friday and forced an emergency landing, according to Iranian state media[3].\n- The US has denied similar Iranian claims throughout the war, which began in February and has disrupted shipping and raised energy prices, Reuters reported[1].",
+          "bullet_summary_inline_token_annotations": null,
+          "featured_images": [
+            {
+              "medium": "image",
+              "url": "https://x.com/CENTCOM/status/2052904984069505281",
+              "source": "web",
+              "image": "https://pplx-res.cloudinary.com/image/fetch/s--hVFapZnA--/t_limit/https://pbs.twimg.com/media/HHvdavHWkAIr2zw%3Fformat%3Dwebp%26name%3Dlarge",
+              "image_id": null,
+              "name": "U.S. Central Command on X: \"A U.S. Air Force F-16 fighter jet flies in  airspace over the Middle East. U.S. forces across the region remain mission  ready.\" / X",
+              "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--u5ybZTuq--/t_thumbnail/https://pbs.twimg.com/media/HHvdavHWkAIr2zw%3Fformat%3Dwebp%26name%3Dlarge",
+              "thumbnail_384": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/90922677-59b4-57c4-8cd8-53483d66c9c4/da490250-9707-576e-bd32-685a62b4be72.jpg",
+              "thumbnail_512": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/fb5f02b6-9f9b-5260-87e6-158ce3ea5557/da490250-9707-576e-bd32-685a62b4be72.jpg",
+              "thumbnail_512_smart": null,
+              "caption": null,
+              "modal_url": null,
+              "author_name": null,
+              "author_url": null,
+              "locations": null,
+              "dark_image_url": null,
+              "duration": null,
+              "image_width": 1200,
+              "image_height": 800,
+              "thumbnail_width": null,
+              "thumbnail_height": null,
+              "download_url": null,
+              "sponsored_uuid": null,
+              "ad_content_uuid": null,
+              "metadata": null,
+              "low_res_image": null,
+              "generated_media_metadata": null,
+              "original_image_url": null
+            }
+          ],
+          "hero_offset": -1.0,
+          "metadata_type": "timestamp",
+          "updated_datetime": "2026-11-21T17:14:43.102021",
+          "author_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/c456edd7-ccbe-43d0-57dc-0ffedd6b5c00/thumbnail",
+          "author_username": "alexwanders",
+          "interest_attribution": null,
+          "published_timestamp": "2026-11-21T17:14:43.102021",
+          "domain_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/c456edd7-ccbe-43d0-57dc-0ffedd6b5c00/thumbnail",
+          "domain_name": "alexwanders",
+          "audio_url": null,
+          "dataviz_url": null,
+          "dataviz_signed_url": null,
+          "has_next_page": true,
+          "collection": null,
+          "feedback_state": {
+            "like": false
+          },
+          "supported_feedbacks": {
+            "dislike": true,
+            "report": false
+          },
+          "discover_screener_query_uuid": null,
+          "is_live": null,
+          "article_number": 18,
+          "access": 2,
+          "social_info": {
+            "view_count": 0,
+            "fork_count": 0,
+            "like_count": 0,
+            "user_likes": false
+          },
+          "last_query_datetime": "2026-11-21T17:14:43.102021",
+          "thread_number": 18,
+          "thread_access": 2,
+          "query_count": 1,
+          "search_focus": "internet",
+          "sources": [],
+          "read_write_token": null,
+          "total_threads": 99,
+          "layout": "media-text",
+          "banners": []
+        },
+        {
+          "card_variant": "LARGE",
+          "title_line_limit": 2,
+          "summary_line_limit": null,
+          "web_results_preview": {
+            "total_count": 33,
+            "first_urls": [
+              "https://www.washingtonpost.com",
+              "https://www.miamiherald.com",
+              "https://www.rawstory.com"
+            ]
+          },
+          "bullet_summary_web_results_preload": [
+            {
+              "name": "In secret memo, Hegseth restricts U.S.-Canada defense relationship",
+              "snippet": "Hegseth issued the guidance, which has not been previously reported, in a classified memo circulated last week, the officials said, speaking on the condition of anonymity because of the issue's sensitivity.",
+              "timestamp": "",
+              "url": "https://www.washingtonpost.com/national-security/2026/11/20/secret-hegseth-memo-restricts-us-canada-defense-relationship/",
+              "meta_data": {
+                "date": "2026-11-20"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 1,
+                "name": "trusted",
+                "description": "is trusted for edited U.S. and international news reporting, with opinion and owner-related conflicts requiring caution",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Pentagon Moves to Curb US-Canada Defence Ties: Report",
+              "snippet": "Hegseth issued the directive in a classified memo circulated last week, The Washington Post reported Friday, citing officials familiar with the decision.",
+              "timestamp": "",
+              "url": "https://www.deccanchronicle.com/world/pentagon-moves-to-curb-us-canada-defence-ties-report-2006675",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": null,
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "No change to Canada-U.S. defence co-operation, military sources say amid report of new restrictions by Washington",
+              "snippet": "A Washington Post report on Friday, citing unnamed officials, said Mr. Hegseth wrote the memo last week.",
+              "timestamp": "",
+              "url": "https://www.theglobeandmail.com/world/us-politics/article-no-change-to-canada-us-defence-co-operation-military-sources-say-amid/",
+              "meta_data": {
+                "date": "2026-11-20"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 2,
+                "name": "trusted",
+                "description": "is trusted for Canadian news reporting, investigations and business journalism",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "Canada defense minister says no shift in US military ties",
+              "snippet": "McGuinty told Reuters Saturday on the sidelines of a security conference in Halifax that he had not seen a memo reportedly sent by US Secretary of War Pete Hegseth and cited by the Washington Post, imposing new constraints on work between Canadian and US militaries.",
+              "timestamp": "",
+              "url": "https://www.miamiherald.com/news/nation-world/world/article318189792.html",
+              "meta_data": {
+                "date": "2026-11-21"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 1,
+                "name": "trusted",
+                "description": "is trusted for professionally edited South Florida news reporting and investigations in the United States",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            },
+            {
+              "name": "US Defense Secretary Hegseth restricts military ties with Canada, ...",
+              "snippet": "US Defense \u200bSecretary Pete \u200cHegseth imposed \u200bnew \u200brestrictions on the \u2060US-Canada \u200bdefense \u200brelationship in a memo \u200bissued \u200blast week, ...",
+              "timestamp": "",
+              "url": "https://www.reuters.com/world/americas/us-defense-secretary-hegseth-restricts-military-ties-with-canada-washington-post-2026-11-20/",
+              "meta_data": {
+                "date": "2026-11-20"
+              },
+              "file_metadata": null,
+              "is_attachment": false,
+              "is_image": false,
+              "is_code_interpreter": false,
+              "is_knowledge_card": false,
+              "is_navigational": false,
+              "is_widget": false,
+              "sitelinks": null,
+              "is_focused_web": false,
+              "is_client_context": false,
+              "inline_entity_id": null,
+              "is_memory": false,
+              "is_conversation_history": false,
+              "is_conversation_summary": false,
+              "tab_id": null,
+              "is_scrubbed": null,
+              "is_hidden": null,
+              "trust": {
+                "level": 2,
+                "name": "trusted",
+                "description": "is trusted for edited international news reporting, fact checks and business coverage",
+                "type_of_trust": null
+              },
+              "summary": null,
+              "page_id": null,
+              "original_snippet": null
+            }
+          ],
+          "item_type": "pplx_page",
+          "mode": "article",
+          "context_uuid": "15106b29-821d-47a3-9c4b-d840b9572056",
+          "uuid": "ebbdfec5-f671-48cb-bb29-5a10601439d2",
+          "slug": "canada-says-no-shift-after-heg-673.xfZxSMu7KVoQYBQ50g",
+          "url": null,
+          "title": "Canada says no shift after Hegseth memo restricts ties",
+          "short_title": "Canada downplays Hegseth memo",
+          "summary": "Defense Minister David McGuinty said he hadn't seen the classified Pentagon memo, which reportedly limits U.S.-Canada military engagement outside NORAD and NATO.",
+          "first_answer": "{\"answer\":\"The Post described the directive as an escalation in a clash between Washington and Ottawa marked by President Donald Trump's repeated threats of annexation, Reuters reported. According to the Globe, U.S. officials are frustrated by Canada's pause on buying F-35 fighter jets from Lockheed Martin and by the trade war. In May, the administration also suspended its participation in the Permanent...\"}",
+          "description": "The Post described the directive as an escalation in a clash between Washington and Ottawa marked by President Donald Trump's repeated threats of annexation, Reuters reported. According to the Globe, U.S. officials are frustrated by Canada's pause on buying F-35 fighter jets from Lockheed Martin and by the trade war. In May, the administration also suspended its participation in the Permanent...",
+          "bullet_summary_preload": "- Canadian Defence Minister **David McGuinty** told Reuters on Saturday that he hadn't seen **Pete Hegseth's** memo and saw \"no daylight\" between the two militaries[4].\n- **The Washington Post** reported the classified memo on Friday. Pentagon spokesman Sean Parnell said it doesn't affect **NORAD**, **NATO** or intelligence sharing[1].\n- According to **The Globe and Mail**, Canadian military leaders learned of the memo from news reports amid U.S. frustration over Canada pausing its Lockheed Martin F-35 purchases[3].",
+          "bullet_summary_inline_token_annotations": null,
+          "featured_images": [
+            {
+              "medium": "image",
+              "url": "https://geopolitiki.com/military/secret-hegseth-memo-restricts-us-canada-military-cooperation-norad-not-affected/",
+              "source": "web",
+              "image": "https://pplx-res.cloudinary.com/image/fetch/s--j1LnU5um--/t_limit/https://geopolitiki.com/wp-content/uploads/hegseth-mcguinty-pentagono-yposymnima-kanadas.webp",
+              "image_id": null,
+              "name": "Secret Hegseth memo restricts US-Canada military cooperation, sources say -  Geopolitiki",
+              "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Kg_Ey925--/t_thumbnail/https://geopolitiki.com/wp-content/uploads/hegseth-mcguinty-pentagono-yposymnima-kanadas.webp",
+              "thumbnail_384": null,
+              "thumbnail_512": null,
+              "thumbnail_512_smart": null,
+              "caption": null,
+              "modal_url": null,
+              "author_name": null,
+              "author_url": null,
+              "locations": null,
+              "dark_image_url": null,
+              "duration": null,
+              "image_width": 1200,
+              "image_height": 675,
+              "thumbnail_width": null,
+              "thumbnail_height": null,
+              "download_url": null,
+              "sponsored_uuid": null,
+              "ad_content_uuid": null,
+              "metadata": null,
+              "low_res_image": null,
+              "generated_media_metadata": null,
+              "original_image_url": null
+            }
+          ],
+          "hero_offset": -1.0,
+          "metadata_type": "timestamp",
+          "updated_datetime": "2026-11-21T17:13:29.106855",
+          "author_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/21b187bb-9a85-43f2-8e6e-f8845b169900/thumbnail",
+          "author_username": "aetheris",
+          "interest_attribution": null,
+          "published_timestamp": "2026-11-21T17:13:29.106855",
+          "domain_image": "https://imagedelivery.net/MPdwyYSWT8IY7lxgN3x3Uw/21b187bb-9a85-43f2-8e6e-f8845b169900/thumbnail",
+          "domain_name": "aetheris",
+          "audio_url": null,
+          "dataviz_url": null,
+          "dataviz_signed_url": null,
+          "has_next_page": true,
+          "collection": null,
+          "feedback_state": {
+            "like": false
+          },
+          "supported_feedbacks": {
+            "dislike": true,
+            "report": false
+          },
+          "discover_screener_query_uuid": null,
+          "is_live": null,
+          "article_number": 19,
+          "access": 2,
+          "social_info": {
+            "view_count": 0,
+            "fork_count": 0,
+            "like_count": 0,
+            "user_likes": false
+          },
+          "last_query_datetime": "2026-11-21T17:13:29.106855",
           "thread_number": 19,
           "thread_access": 2,
           "query_count": 1,
@@ -9813,10 +9718,55 @@
           "banners": []
         }
       ],
-      "feed_uuid": "6e1448c4-91d7-4998-9fd6-e29b7cc2201f",
-      "next_token": "6e1448c4-91d7-4998-9fd6-e29b7cc2201f",
+      "feed_uuid": "0ab57a72-cbbd-4a77-88d1-688fa6303e98",
+      "next_token": "0ab57a72-cbbd-4a77-88d1-688fa6303e98",
       "cache_window_in_seconds": 900,
       "banner_text": "Iran vows blockade break, Bridge cleanup takes months, and more"
+    }
+  },
+  {
+    "url": "https://www.perplexity.ai/rest/discover/topics?version=2.18&source=default",
+    "body": {
+      "user_selected_topics": [],
+      "all_topics": [
+        {
+          "id": "9be812cb-6120-41b7-bc9e-993200db6cfc",
+          "name": "Tech & Science",
+          "icon": "microchip_ai",
+          "slug": "tech",
+          "translated_name": "Tech & Science"
+        },
+        {
+          "id": "e46915e3-9d25-4f85-9e43-e8a9d834729f",
+          "name": "Business",
+          "icon": "dollar_circle",
+          "slug": "finance",
+          "translated_name": "Business"
+        },
+        {
+          "id": "f00846db-e258-4455-9e9f-74b12cfbf06d",
+          "name": "Arts & Culture",
+          "icon": "palette",
+          "slug": "arts",
+          "translated_name": "Arts & Culture"
+        },
+        {
+          "id": "c69c15fd-559e-4714-b82c-481a89b82a94",
+          "name": "Sports",
+          "icon": "medal",
+          "slug": "sports",
+          "translated_name": "Sports"
+        },
+        {
+          "id": "0130fdd1-4017-43ac-91ae-59ace446130f",
+          "name": "Entertainment",
+          "icon": "tv",
+          "slug": "entertainment",
+          "translated_name": "Entertainment"
+        }
+      ],
+      "disable_links": null,
+      "show_links_toggle": false
     }
   }
 ]
